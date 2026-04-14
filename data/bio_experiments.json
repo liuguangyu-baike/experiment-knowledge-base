@@ -1,0 +1,4612 @@
+[
+  {
+    "id": "bio-7a-01",
+    "name": "练习使用显微镜",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "1.2.1",
+      "pages": [
+        14,
+        15,
+        16
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "练习使用光学显微镜，学习规范的操作方法",
+    "type": "技能训练",
+    "inquiry_method": "按规范步骤操作单目/双目显微镜，对光调光、放置标本、调焦观察",
+    "equipment": [
+      "显微镜",
+      "载玻片",
+      "盖玻片",
+      "镊子",
+      "滴管",
+      "擦镜纸"
+    ],
+    "materials": [
+      "动植物玻片标本",
+      "池塘水"
+    ],
+    "functional_components": "显微镜(对光调光、粗/细准焦螺旋调节、物镜切换、放大倍数切换)",
+    "steps": [
+      {
+        "step": "1. 对光调光",
+        "substeps": [
+          "1.1 转动转换器，使低倍物镜对准通光孔",
+          "1.2 调节遮光器，用一个较大的光圈对准通光孔",
+          "1.3 一只眼向目镜内看，转动反光镜，看到明亮的圆形视野"
+        ]
+      },
+      {
+        "step": "2. 调焦观察",
+        "substeps": [
+          "2.1 将玻片标本正面朝上放在载物台上，用压片夹压住，移动至通光孔中心",
+          "2.2 转动粗准焦螺旋使镜筒缓慢下降（从侧面看，防止物镜与玻片接触）",
+          "2.3 一只眼向目镜内看，转动粗准焦螺旋使镜筒缓慢上升，直到看清物像",
+          "2.4 略微转动细准焦螺旋，使物像更加清晰"
+        ]
+      },
+      {
+        "step": "3. 换高倍镜观察",
+        "substeps": [
+          "3.1 将观察部位移至视野中央",
+          "3.2 转动转换器转换高倍物镜",
+          "3.3 用细准焦螺旋调焦"
+        ]
+      },
+      {
+        "step": "4. 进一步探究：滴池塘水在载玻片上，盖上盖玻片，观察水中微小生物"
+      }
+    ],
+    "data_recording": "观察并记录不同标本在不同放大倍数下的物像",
+    "independent_var": "无",
+    "dependent_var": "无",
+    "control_group": "无",
+    "inquiry_skills": [
+      "显微镜规范操作流程（取镜安放、对光、调焦）",
+      "放大倍数计算（目镜倍数×物镜倍数）",
+      "先低倍后高倍观察原则"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "N/A",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "不要用手扳镜头来转换物镜",
+      "不要用手触摸镜片",
+      "转换高倍物镜后切忌用粗准焦螺旋调焦",
+      "下降镜筒时眼睛必须从侧面看着物镜",
+      "实验完毕将镜筒下降到最低处"
+    ],
+    "notes": "教材介绍了三种显微镜（单目、双目、数码液晶），核心操作一致；放大倍数=目镜倍数×物镜倍数"
+  },
+  {
+    "id": "bio-7a-02",
+    "name": "制作并观察植物细胞临时装片",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "1.2.2",
+      "pages": [
+        19,
+        20,
+        21
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "制作植物细胞临时装片，认识植物细胞的基本结构，练习画细胞结构简图",
+    "type": "观察/探索",
+    "inquiry_method": "制作洋葱鳞片叶内表皮等多种植物细胞临时装片，碘液染色后在显微镜下观察并绘图",
+    "equipment": [
+      "显微镜",
+      "载玻片",
+      "盖玻片",
+      "刀片",
+      "镊子",
+      "滴管",
+      "解剖针",
+      "纱布",
+      "吸水纸"
+    ],
+    "materials": [
+      "洋葱",
+      "番茄",
+      "彩椒",
+      "黑藻",
+      "清水",
+      "碘液"
+    ],
+    "functional_components": "显微镜(调焦、切换放大倍数)、滴管(滴加液体、染色)",
+    "steps": [
+      {
+        "step": "1. 制作洋葱鳞片叶内表皮细胞临时装片",
+        "substeps": [
+          "1.1 用洁净的纱布将载玻片和盖玻片擦拭干净",
+          "1.2 在载玻片中央滴一滴清水",
+          "1.3 用镊子从洋葱鳞片叶内侧撕取一小块薄而透明的内表皮，浸入水滴中展平",
+          "1.4 用镊子夹起盖玻片，一边先接触水滴，然后缓缓放下（避免气泡）",
+          "1.5 在盖玻片一侧滴1-2滴碘液，用吸水纸从另一侧吸引"
+        ]
+      },
+      {
+        "step": "2. 尝试制作其他植物细胞临时装片",
+        "substeps": [
+          "2.1 彩椒外表皮：取果皮刮去果肉，取最薄部分制片",
+          "2.2 黑藻叶片：直接取一片幼嫩小叶制片",
+          "2.3 番茄果肉：用解剖针挑取少许成熟果肉涂在水滴中"
+        ]
+      },
+      {
+        "step": "3. 在低倍镜下观察，辨认细胞各种结构"
+      },
+      {
+        "step": "4. 练习画细胞结构简图"
+      }
+    ],
+    "data_recording": "绘制植物细胞结构简图，标注细胞壁、细胞膜、细胞质、细胞核、液泡、叶绿体等",
+    "independent_var": "无",
+    "dependent_var": "无",
+    "control_group": "无",
+    "inquiry_skills": [
+      "临时装片制作技术（擦→滴→取→展→盖→染）",
+      "碘液染色法（一侧滴碘液、另一侧用吸水纸吸引）",
+      "盖盖玻片防气泡技术（一边先接触水滴再缓缓放下）",
+      "生物绘图规范（铅笔画图、暗处用细点表示）"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "盖盖玻片时一边先接触水滴再缓缓放下",
+      "撕取的表皮要薄而透明",
+      "碘液从一侧滴、另一侧吸引",
+      "画图用铅笔，暗处用细点表示"
+    ],
+    "notes": "涉及4种不同植物材料，取材方法各异（撕、刮、取叶、挑取）"
+  },
+  {
+    "id": "bio-7a-03",
+    "name": "观察人的口腔上皮细胞和动物细胞",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "1.2.3",
+      "pages": [
+        23,
+        24,
+        25
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "制作并观察人的口腔上皮细胞临时装片，观察动物细胞永久标本，认识动物细胞基本结构",
+    "type": "观察/探索",
+    "inquiry_method": "用无菌牙签刮取口腔上皮细胞制作临时装片，碘液染色后显微镜观察，并比较动植物细胞异同",
+    "equipment": [
+      "显微镜",
+      "载玻片",
+      "盖玻片",
+      "镊子",
+      "滴管",
+      "纱布",
+      "吸水纸"
+    ],
+    "materials": [
+      "动物细胞永久玻片标本",
+      "生理盐水",
+      "碘液",
+      "无菌牙签"
+    ],
+    "functional_components": "显微镜(调焦、切换放大倍数)、滴管(滴加液体、染色)",
+    "steps": [
+      {
+        "step": "1. 制作人的口腔上皮细胞临时装片",
+        "substeps": [
+          "1.1 将载玻片、盖玻片擦拭干净",
+          "1.2 在载玻片中央滴一滴生理盐水",
+          "1.3 漱口后，用无菌牙签在口腔内壁上轻刮几下",
+          "1.4 把牙签附有碎屑的一端放在生理盐水中轻轻涂抹",
+          "1.5 盖上盖玻片（一边先接触水滴），碘液染色"
+        ]
+      },
+      {
+        "step": "2. 显微镜观察人的口腔上皮细胞"
+      },
+      {
+        "step": "3. 观察动物细胞永久玻片标本"
+      },
+      {
+        "step": "4. 绘制动物细胞结构简图并标注"
+      }
+    ],
+    "data_recording": "绘制动物细胞结构简图，标注细胞膜、细胞质、细胞核",
+    "independent_var": "无",
+    "dependent_var": "无",
+    "control_group": "无",
+    "inquiry_skills": [
+      "生理盐水维持细胞正常形态（不能用清水，否则细胞吸水变形）",
+      "临时装片制作技术",
+      "碘液染色法"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "制作前先漱口",
+      "使用无菌牙签",
+      "必须使用生理盐水而非清水（维持细胞正常形态）"
+    ],
+    "notes": "通过与植物细胞对比，引导学生认识动物细胞没有细胞壁、叶绿体，通常也没有液泡"
+  },
+  {
+    "id": "bio-7a-04",
+    "name": "观察人体的基本组织",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "1.3.2",
+      "pages": [
+        40
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "观察人体四种基本组织的永久玻片标本，认识上皮组织、肌肉组织、结缔组织、神经组织",
+    "type": "观察/探索",
+    "inquiry_method": "用显微镜先低倍镜观察细胞排列、再高倍镜观察细胞形态，比较四种组织",
+    "equipment": [
+      "显微镜"
+    ],
+    "materials": [
+      "人体四种基本组织的永久玻片标本"
+    ],
+    "functional_components": "显微镜(调焦、低倍/高倍切换)",
+    "steps": [
+      {
+        "step": "1. 在低倍镜下观察组织细胞，移动玻片了解排列情况"
+      },
+      {
+        "step": "2. 使用高倍镜仔细观察组织细胞的形态特点"
+      },
+      {
+        "step": "3. 比较四种组织在细胞排列和形态方面的异同"
+      }
+    ],
+    "data_recording": "记录四种组织的细胞排列特点和形态特征",
+    "independent_var": "无",
+    "dependent_var": "无",
+    "control_group": "无",
+    "inquiry_skills": [
+      "显微镜操作（先低倍后高倍观察法）"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [],
+    "notes": "四种基本组织：上皮组织（保护、分泌）、肌肉组织（收缩舒张）、结缔组织（支持、连接、保护、营养）、神经组织（感受刺激、传导神经冲动）"
+  },
+  {
+    "id": "bio-7a-05",
+    "name": "观察草履虫并探究其趋性",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "1.3.4",
+      "pages": [
+        47,
+        48
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "观察草履虫的形态及运动，探究草履虫对不同刺激的趋性反应",
+    "type": "调参/验证",
+    "inquiry_method": "从培养液中取样观察草履虫形态，设置不同刺激源（肉汁、食盐等）探究趋性",
+    "equipment": [
+      "显微镜",
+      "放大镜",
+      "载玻片",
+      "盖玻片",
+      "滴管"
+    ],
+    "materials": [
+      "草履虫培养液",
+      "肉汁",
+      "清水",
+      "食盐粒",
+      "棉花纤维",
+      "牙签"
+    ],
+    "functional_components": "显微镜(观察草履虫形态)、放大镜(放大观察运动方向)",
+    "steps": [
+      {
+        "step": "1. 观察草履虫的形态及运动",
+        "substeps": [
+          "1.1 从培养液表层吸取一滴，滴在载玻片上",
+          "1.2 用肉眼和放大镜观察草履虫",
+          "1.3 盖上盖玻片，低倍镜下观察形态和运动",
+          "1.4 如运动过快，可先放几丝棉花纤维再盖盖玻片"
+        ]
+      },
+      {
+        "step": "2. 探究草履虫的趋性",
+        "substeps": [
+          "2.1 在载玻片两端各滴一滴培养液，用牙签在两液滴间轻划使之连通",
+          "2.2 用放大镜观察草履虫的运动",
+          "2.3 在右侧培养液边缘滴一滴肉汁，观察运动方向",
+          "2.4 自行设计实验探究草履虫对食盐粒、清水等不同刺激的反应"
+        ]
+      }
+    ],
+    "data_recording": "记录草履虫在不同刺激源下的运动方向和行为",
+    "independent_var": "1个(刺激物类型: 肉汁 vs 食盐粒 vs 清水)",
+    "dependent_var": "1个 定性(草履虫的运动方向: 趋向/远离)",
+    "control_group": "有 未添加刺激物的一端作为对照",
+    "inquiry_skills": [
+      "控制变量法（单一变量原则）",
+      "对照实验设计",
+      "棉花纤维限速法（减缓草履虫运动速度以便观察）"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Guided",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "食盐粒等刺激物放在培养液边缘",
+      "各实验组除刺激源不同外其他条件保持一致"
+    ],
+    "notes": "兼具观察和探究两层面：Part1观察形态运动，Part2有控制变量的探究实验"
+  },
+  {
+    "id": "bio-7a-06",
+    "name": "观察种子的结构",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "2.1.2",
+      "pages": [
+        65,
+        66,
+        67
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "认识种子的结构，比较菜豆和玉米种子的异同",
+    "type": "观察/探索",
+    "inquiry_method": "解剖浸软的菜豆种子和玉米种子，观察并比较各部分结构",
+    "equipment": [
+      "刀片",
+      "滴管",
+      "放大镜"
+    ],
+    "materials": [
+      "浸软的菜豆种子",
+      "浸软的玉米种子",
+      "碘液"
+    ],
+    "functional_components": "放大镜(观察胚的结构细节)",
+    "steps": [
+      {
+        "step": "1. 观察菜豆种子的结构",
+        "substeps": [
+          "1.1 取一粒浸软的菜豆种子，观察外形",
+          "1.2 剥去种皮，分开两片子叶",
+          "1.3 用放大镜观察子叶、胚根、胚芽和胚轴"
+        ]
+      },
+      {
+        "step": "2. 观察玉米种子的结构",
+        "substeps": [
+          "2.1 取一粒浸软的玉米种子，观察外形",
+          "2.2 用刀片从中央纵向剖开",
+          "2.3 观察果皮和种皮、胚乳、胚根、胚芽、胚轴、子叶",
+          "2.4 在剖面上滴碘液，观察哪些部分被染成蓝色"
+        ]
+      }
+    ],
+    "data_recording": "记录菜豆和玉米种子各部分结构的异同，完成对比表格",
+    "independent_var": "无",
+    "dependent_var": "无",
+    "control_group": "无",
+    "inquiry_skills": [
+      "淀粉遇碘变蓝（碘液检测淀粉）",
+      "纵切解剖法"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "使用刀片注意安全",
+      "碘液有色，避免沾染衣物"
+    ],
+    "notes": "玉米胚乳遇碘变蓝说明含淀粉"
+  },
+  {
+    "id": "bio-7a-07",
+    "name": "探究鸟适于飞行的形态结构特点",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "2.2.2",
+      "pages": [
+        90,
+        91,
+        92
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探究鸟的形态结构与飞行生活相适应的特点",
+    "type": "观察/探索",
+    "inquiry_method": "提出问题、作出假设，通过观察鸟的体形/翼/羽毛/胸肌/骨骼来验证假设",
+    "equipment": [],
+    "materials": [
+      "家鸽或其他善飞的鸟（活体或标本）",
+      "鸟的骨骼标本"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 提出问题：鸟的形态结构有哪些适于飞行的特点？"
+      },
+      {
+        "step": "2. 作出假设"
+      },
+      {
+        "step": "3. 制订并实施计划",
+        "substeps": [
+          "3.1 观察鸟的体形特点",
+          "3.2 将翼轻轻展开，观察羽毛的排列",
+          "3.3 摸胸肌，与其他部位肌肉比较发达程度",
+          "3.4 观察骨骼，发现胸骨上龙骨突",
+          "3.5 无法通过观察验证的假设，查找资料"
+        ]
+      },
+      {
+        "step": "4. 得出结论"
+      },
+      {
+        "step": "5. 表达和交流"
+      }
+    ],
+    "data_recording": "记录体形、翼和羽毛特点、胸肌发达程度、骨骼特征",
+    "independent_var": "无",
+    "dependent_var": "无",
+    "control_group": "无",
+    "inquiry_skills": [],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "Guided",
+      "experiment_design": "Structured",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "轻柔操作，避免伤害活体鸟类"
+    ],
+    "notes": "完整探究流程：提出问题→作出假设→制订计划→实施→得出结论→表达交流"
+  },
+  {
+    "id": "bio-7a-08",
+    "name": "检测环境中的细菌和真菌",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "2.3.1",
+      "pages": [
+        100,
+        101
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探究不同环境中细菌和真菌的分布情况，学习培养细菌和真菌的一般方法",
+    "type": "调参/验证",
+    "inquiry_method": "在不同环境中采集样品接种到灭菌培养基上，适宜条件下培养并观察菌落",
+    "equipment": [
+      "培养皿",
+      "放大镜",
+      "标签纸"
+    ],
+    "materials": [
+      "含培养基的培养皿（高温灭菌）",
+      "无菌棉棒"
+    ],
+    "functional_components": "放大镜(观察区分细菌菌落和真菌菌落)",
+    "steps": [
+      {
+        "step": "1. 配制培养基（含营养物质+琼脂），高温灭菌，冷却备用"
+      },
+      {
+        "step": "2. 标签标注组别、实验日期，贴在培养皿底面"
+      },
+      {
+        "step": "3. 在选定环境中采集样品",
+        "substeps": [
+          "3.1 方法一：打开培养皿暴露5-10分钟",
+          "3.2 方法二：用无菌棉棒蘸取或擦拭样品，在培养基上轻轻涂抹"
+        ]
+      },
+      {
+        "step": "4. 设置对照组（一套培养皿不接种）"
+      },
+      {
+        "step": "5. 在同一环境下培养"
+      },
+      {
+        "step": "6. 定时观察、记录菌落形成情况"
+      }
+    ],
+    "data_recording": "记录菌落形态、大小、颜色、数量，及不同环境的比较结果",
+    "independent_var": "1个(采样环境: 不同地点/表面)",
+    "dependent_var": "1个 定性+定量(菌落数量和种类)",
+    "control_group": "有 未接种的培养基（验证灭菌彻底）",
+    "inquiry_skills": [
+      "培养基配制与高温灭菌",
+      "接种技术（暴露法、涂抹法）",
+      "空白对照组设计（未接种的培养基作对照）",
+      "无菌操作规范"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "Guided",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "实验时穿实验服、戴口罩",
+      "实验结束后培养物高温灭菌处理",
+      "操作前不能随意打开培养皿"
+    ],
+    "notes": "探究性最开放的实验之一，学生需自行选择采样环境和设计对照"
+  },
+  {
+    "id": "bio-7a-09",
+    "name": "观察酵母菌和霉菌",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "2.3.3",
+      "pages": [
+        110,
+        111
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "认识酵母菌和霉菌（青霉）的形态结构",
+    "type": "观察/探索",
+    "inquiry_method": "制作酵母菌和青霉临时装片，用显微镜观察其形态结构",
+    "equipment": [
+      "显微镜",
+      "放大镜",
+      "载玻片",
+      "盖玻片",
+      "解剖针",
+      "滴管",
+      "镊子",
+      "吸水纸"
+    ],
+    "materials": [
+      "酵母菌培养液",
+      "培养好的青霉",
+      "碘液",
+      "白纸"
+    ],
+    "functional_components": "显微镜(调焦、切换放大倍数)、放大镜(观察气生菌丝和孢子结构)",
+    "steps": [
+      {
+        "step": "1. 观察酵母菌",
+        "substeps": [
+          "1.1 取一滴酵母菌培养液滴在载玻片上，盖上盖玻片",
+          "1.2 显微镜下观察椭圆形细胞，观察有无出芽生殖的突起",
+          "1.3 碘液染色，显微镜下观察细胞核"
+        ]
+      },
+      {
+        "step": "2. 观察青霉",
+        "substeps": [
+          "2.1 取一块长有青霉的橘子皮，垫白纸，用放大镜观察气生菌丝和顶端孢子",
+          "2.2 用解剖针挑取少许长有孢子的菌丝，制成临时装片",
+          "2.3 显微镜下观察菌丝颜色、扫帚状结构、孢子着生状态和颜色"
+        ]
+      }
+    ],
+    "data_recording": "记录酵母菌细胞形态、出芽现象、细胞核；青霉菌丝颜色、孢子着生状态和颜色",
+    "independent_var": "无",
+    "dependent_var": "无",
+    "control_group": "无",
+    "inquiry_skills": [
+      "碘液染色观察细胞核",
+      "临时装片制作（液体样品）",
+      "放大镜→显微镜递进观察顺序"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "观察青霉时应戴手套、口罩和防护眼镜"
+    ],
+    "notes": "酵母菌有成形的细胞核（与细菌不同）；青霉孢子青绿色，成串着生"
+  },
+  {
+    "id": "bio-7b-01",
+    "name": "探究种子萌发的环境条件",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "3.1.1",
+      "pages": [
+        3,
+        4
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探究种子萌发需要的环境条件（水分、温度、空气）",
+    "type": "调参/验证",
+    "inquiry_method": "四组培养皿分别控制水分、温度、空气条件，定时观察记录萌发情况",
+    "equipment": [
+      "培养皿",
+      "记号笔"
+    ],
+    "materials": [
+      "植物种子（如绿豆）40粒",
+      "滤纸/餐巾纸"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 准备4个培养皿，铺滤纸，编号后各放等量种子"
+      },
+      {
+        "step": "2. 设置4组不同条件",
+        "substeps": [
+          "1号：不加水（干燥），室温放置",
+          "2号：适量水，室温放置（对照组）",
+          "3号：适量水，放入冰箱（低温）",
+          "4号：水浸没种子，室温放置（缺氧）"
+        ]
+      },
+      {
+        "step": "3. 每日定时观察并记录萌发情况，适时补水（1、2、3号）"
+      }
+    ],
+    "data_recording": "记录各组种子萌发数量和比例，对比分析各条件下的萌发情况",
+    "independent_var": "3个（水分多少: 干燥/适量/浸没；温度: 室温/低温；空气: 充足/不足）",
+    "dependent_var": "1个 定性/定量（是否萌发、萌发率）",
+    "control_group": "有 2号（适宜水分+室温+充足空气）作为对照，各组仅改变一个变量",
+    "inquiry_skills": [
+      "对照实验设计",
+      "控制单一变量原则",
+      "实验组与对照组的区分"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "Structured",
+      "experiment_design": "Guided",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "选用饱满有活力的种子",
+      "除变量外其余条件保持一致",
+      "定期补水保持湿度"
+    ],
+    "notes": "教材提供参考方案，小组可自选探究的环境因素；教材强调多组对照的逻辑设计"
+  },
+  {
+    "id": "bio-7b-02",
+    "name": "观察根尖的结构",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "3.1.2",
+      "pages": [
+        8
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "观察根尖，认识根冠、分生区、伸长区、成熟区各部分结构特点",
+    "type": "观察/探索",
+    "inquiry_method": "肉眼和放大镜观察根毛，显微镜观察根尖永久切片比较各区细胞形态",
+    "equipment": [
+      "放大镜",
+      "显微镜",
+      "镊子"
+    ],
+    "materials": [
+      "长出根毛的幼苗",
+      "根尖永久横切片"
+    ],
+    "functional_components": "显微镜(调焦、切换放大倍数)",
+    "steps": [
+      {
+        "step": "1. 肉眼观察幼根，找到根毛区域；放大镜观察根毛特点"
+      },
+      {
+        "step": "2. 显微镜观察根尖永久切片，比较各区域细胞形态"
+      },
+      {
+        "step": "3. 区分根冠、分生区、伸长区、成熟区，讨论各区与根尖生长的关系"
+      }
+    ],
+    "data_recording": "记录各区细胞形态特点（大小、形状、是否有液泡等），或绘图标注",
+    "independent_var": "无",
+    "dependent_var": "1个 定性（根尖各区细胞形态与功能）",
+    "control_group": "无（不同区域为对比观察，非对照实验）",
+    "inquiry_skills": [
+      "显微镜操作（先低倍后高倍观察法）"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "观察永久切片时不可使用粗准焦螺旋下压"
+    ],
+    "notes": "讨论幼根伸长主要与哪些区域有关（伸长区为主）"
+  },
+  {
+    "id": "bio-7b-03",
+    "name": "比较玉米幼苗在蒸馏水和土壤浸出液中的生长状况",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "3.1.2",
+      "pages": [
+        11
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探究土壤浸出液（含无机盐）对玉米幼苗生长的影响",
+    "type": "调参/验证",
+    "inquiry_method": "两组幼苗分别用蒸馏水和土壤浸出液培养，相同条件下观察生长差异",
+    "equipment": [
+      "试管",
+      "脱脂棉"
+    ],
+    "materials": [
+      "生长状况相近的玉米幼苗",
+      "蒸馏水",
+      "土壤浸出液"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 选取生长状况相近的幼苗，分置两支试管"
+      },
+      {
+        "step": "2. 一管加等量蒸馏水，另一管加等量土壤浸出液，用脱脂棉固定幼苗"
+      },
+      {
+        "step": "3. 在温度、光照等相同条件下培养"
+      },
+      {
+        "step": "4. 一段时间后比较两组幼苗的生长状况"
+      }
+    ],
+    "data_recording": "记录株高、叶色、根/茎/叶的生长情况",
+    "independent_var": "1个（培养液种类: 蒸馏水 vs 土壤浸出液）",
+    "dependent_var": "1个 定性（幼苗生长状况）",
+    "control_group": "有 蒸馏水组与土壤浸出液组互为对照",
+    "inquiry_skills": [
+      "对照实验设计",
+      "控制单一变量原则"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "Structured",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "幼苗初始长势需一致",
+      "两组除培养液外其余环境条件相同"
+    ],
+    "notes": "蒸馏水与土壤浸出液的关键差异是无机盐；讨论两组差异说明植物生长需要无机盐"
+  },
+  {
+    "id": "bio-7b-04",
+    "name": "解剖和观察花的结构",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "3.1.3",
+      "pages": [
+        16
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "解剖植物的花，观察并说出花的各部分结构",
+    "type": "观察/探索",
+    "inquiry_method": "由外向内依次拆解花的各部分，放大镜观察花药花粉和子房胚珠",
+    "equipment": [
+      "镊子",
+      "刀片",
+      "放大镜"
+    ],
+    "materials": [
+      "新鲜完整的桃花（或杏花等）"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 对照教材图，观察整朵花，识别花托、萼片、花瓣、雄蕊、雌蕊的位置"
+      },
+      {
+        "step": "2. 由外向内依次摘下萼片、花瓣、雄蕊、雌蕊，放在白纸上排列观察"
+      },
+      {
+        "step": "3. 剖开花药，用放大镜观察花粉"
+      },
+      {
+        "step": "4. 纵切子房，用放大镜观察胚珠的着生情况"
+      }
+    ],
+    "data_recording": "记录花各部分名称和形态特征，绘制花的解剖示意图",
+    "independent_var": "无",
+    "dependent_var": "1个 定性（花的组成部分与形态）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "解剖顺序（由外向内）",
+      "纵切法观察子房与胚珠"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "N/A",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "刀片使用注意安全",
+      "选取新鲜完整的花"
+    ],
+    "notes": "讨论花中将来发育成果实的是子房，发育成种子的是胚珠"
+  },
+  {
+    "id": "bio-7b-05",
+    "name": "观察叶片的结构",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "3.2.1",
+      "pages": [
+        24,
+        25
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "练习徒手切片技术，认识叶片的显微结构，观察表皮细胞、保卫细胞和气孔",
+    "type": "技能训练",
+    "inquiry_method": "徒手切片制横切临时装片，显微镜对比临时切片与永久切片，撕取表皮观察气孔",
+    "equipment": [
+      "显微镜",
+      "双面刀片",
+      "镊子",
+      "载玻片",
+      "盖玻片",
+      "培养皿",
+      "滴管",
+      "吸水纸",
+      "纱布",
+      "毛笔",
+      "小木板"
+    ],
+    "materials": [
+      "新鲜叶片（菠菜/蚕豆等）",
+      "清水",
+      "叶片横切永久切片"
+    ],
+    "functional_components": "显微镜(调焦、切换放大倍数)",
+    "steps": [
+      {
+        "step": "一、徒手切片",
+        "substeps": [
+          "1. 将叶片平放在木板上，用双面刀片快速划过，获取薄切片",
+          "2. 选最薄的切片制临时切片，显微镜观察"
+        ]
+      },
+      {
+        "step": "二、对比观察临时切片与永久切片",
+        "substeps": [
+          "1. 低倍镜下区分表皮、叶肉、叶脉三层结构",
+          "2. 高倍镜下观察叶肉细胞中的叶绿体"
+        ]
+      },
+      {
+        "step": "三、观察气孔",
+        "substeps": [
+          "1. 撕取叶片下表皮，制成临时装片",
+          "2. 低倍镜下找到气孔，观察保卫细胞的形态"
+        ]
+      },
+      {
+        "step": "四、绘制保卫细胞及周围表皮细胞的形态图"
+      }
+    ],
+    "data_recording": "记录叶片横切面各层结构特征，绘制保卫细胞及气孔形态图",
+    "independent_var": "无",
+    "dependent_var": "1个 定性（叶片显微结构、气孔分布）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "徒手切片技术（快速薄切）",
+      "叶片横切面三层结构（表皮/叶肉/叶脉）",
+      "撕取法制表皮临时装片",
+      "保卫细胞与气孔的功能"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Structured",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "刀片锋利，注意安全",
+      "切片要尽量薄",
+      "保持叶片材料湿润"
+    ],
+    "notes": "教材设有进一步探究，可比较不同植物叶片的结构差异"
+  },
+  {
+    "id": "bio-7b-06",
+    "name": "探究绿叶在光下制造有机物",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "3.2.2",
+      "pages": [
+        29,
+        30
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "检验光合作用产生的有机物是否为淀粉；探究光是制造有机物的必需条件",
+    "type": "调参/验证",
+    "inquiry_method": "暗处理→部分遮光光照→酒精水浴脱色→碘液检验，比较见光区与遮光区颜色变化",
+    "equipment": [
+      "小烧杯",
+      "培养皿",
+      "水浴锅（或大烧杯）",
+      "酒精灯",
+      "石棉网",
+      "三脚架",
+      "镊子",
+      "滴管"
+    ],
+    "materials": [
+      "盆栽天竺葵",
+      "黑色硬纸片",
+      "曲别针",
+      "酒精",
+      "碘液",
+      "清水"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 暗处理：将天竺葵放在黑暗处一昼夜，耗尽叶片中原有淀粉"
+      },
+      {
+        "step": "2. 部分遮光：用黑色硬纸片遮住叶片一部分，曲别针固定，光照约2小时"
+      },
+      {
+        "step": "3. 摘叶：取下叶片，去掉黑纸片"
+      },
+      {
+        "step": "4. 酒精脱色：将叶片放入酒精中，隔水（水浴）加热，直至叶片变为黄白色"
+      },
+      {
+        "step": "5. 漂洗：用清水冲洗叶片"
+      },
+      {
+        "step": "6. 碘液检验：在叶片上滴碘液，冲洗后观察颜色变化"
+      }
+    ],
+    "data_recording": "观察并记录见光部分和遮光部分遇碘后的颜色变化",
+    "independent_var": "1个（光照: 见光 vs 遮光）",
+    "dependent_var": "1个 定性（是否产生淀粉——遇碘是否变蓝）",
+    "control_group": "有 同一叶片的遮光部分（无光）与见光部分形成对照",
+    "inquiry_skills": [
+      "暗处理耗尽原有淀粉（排除干扰）",
+      "叶绿素溶于酒精（酒精脱色原理）",
+      "隔水加热（水浴法，防止酒精燃烧）",
+      "淀粉遇碘变蓝（碘液检验淀粉）"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "Structured",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "酒精易燃，必须水浴加热，严禁直接加热",
+      "脱色要充分，否则叶绿素干扰颜色判断"
+    ],
+    "notes": "教材设有进一步探究，可在显微镜下观察淀粉颗粒在细胞中的位置"
+  },
+  {
+    "id": "bio-7b-07",
+    "name": "探究二氧化碳是光合作用必需的原料",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "3.2.2",
+      "pages": [
+        33,
+        34
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "设计实验检验二氧化碳是光合作用的必需原料，并撰写探究报告",
+    "type": "调参/验证",
+    "inquiry_method": "用氢氧化钠吸收CO₂（实验组）与清水（对照组）对比，光照后碘液检验叶片是否产生淀粉",
+    "equipment": [
+      "密闭容器",
+      "小烧杯",
+      "其他自选装置"
+    ],
+    "materials": [
+      "植物",
+      "25%氢氧化钠溶液",
+      "清水",
+      "碘液"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 暗处理植物一昼夜，耗尽叶片中原有淀粉"
+      },
+      {
+        "step": "2. 设计装置：实验组密闭容器内放NaOH溶液吸收CO₂；对照组放等量清水"
+      },
+      {
+        "step": "3. 光照相同时间"
+      },
+      {
+        "step": "4. 取叶片，酒精水浴脱色，碘液检验"
+      },
+      {
+        "step": "5. 记录结果，撰写探究报告"
+      }
+    ],
+    "data_recording": "记录各装置叶片碘液检测结果及颜色变化",
+    "independent_var": "1个（二氧化碳有无: NaOH吸收CO₂ vs 清水不吸收）",
+    "dependent_var": "1个 定性（是否产生淀粉——遇碘是否变蓝）",
+    "control_group": "有 清水组为对照，NaOH组为实验组",
+    "inquiry_skills": [
+      "氢氧化钠吸收二氧化碳（实验装置技巧）",
+      "暗处理耗尽原有淀粉",
+      "淀粉遇碘变蓝",
+      "酒精水浴脱色"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "Guided",
+      "experiment_design": "Guided",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "氢氧化钠有强腐蚀性，避免接触皮肤和眼睛"
+    ],
+    "notes": "开放度较高，教材要求学生自行讨论方案并撰写探究报告；装置图为参考"
+  },
+  {
+    "id": "bio-7b-08",
+    "name": "测定几种食物中的能量",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "4.2.1",
+      "pages": [
+        71,
+        72,
+        73
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "通过燃烧食物加热水，测定不同食物所含的能量并进行比较",
+    "type": "调参/验证",
+    "inquiry_method": "燃烧干燥种子加热锥形瓶中定量水，测水温变化，推算食物所含能量",
+    "equipment": [
+      "铁架台",
+      "锥形瓶（50mL）",
+      "温度计",
+      "酒精灯",
+      "天平"
+    ],
+    "materials": [
+      "干燥花生、核桃等易燃烧种子",
+      "水"
+    ],
+    "functional_components": "温度计(测量水温变化)",
+    "steps": [
+      {
+        "step": "1. 锥形瓶固定在铁架台上，注入30mL水，插入温度计，记录初始水温"
+      },
+      {
+        "step": "2. 用天平称量食物样品的质量，记录数据"
+      },
+      {
+        "step": "3. 点燃食物，用火焰加热锥形瓶底部，燃烧完毕后记录末温"
+      },
+      {
+        "step": "4. 计算水吸收的热量（水的比热约4.2 J/(g·℃)）"
+      },
+      {
+        "step": "5. 重复实验，取平均值，改进装置减少散热"
+      }
+    ],
+    "data_recording": "记录食物种类、质量（g）、水量（mL）、燃烧前后水温、计算热量（J）",
+    "independent_var": "1个（食物种类）",
+    "dependent_var": "1个 定量（水温升高值/推算释放能量）",
+    "control_group": "有 不同食物相互对照，或重复组取平均",
+    "inquiry_skills": [
+      "燃烧法测定食物能量",
+      "水的比热计算热量（Q=m×4.2×ΔT）",
+      "重复实验取平均值减小误差"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "Guided",
+      "experiment_design": "Guided",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "注意用火安全",
+      "尽量减少热量散失（保温措施）",
+      "重复测定取平均值"
+    ],
+    "notes": "教材要求讨论装置散热问题及改进方案；测量结果通常低于食品标签热量（因散热损失）"
+  },
+  {
+    "id": "bio-7b-09",
+    "name": "口腔对馒头（或米饭）的消化作用",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "4.2.2",
+      "pages": [
+        79,
+        80
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探究馒头变甜与牙齿咀嚼（切碎）、舌的搅拌、唾液分泌的关系",
+    "type": "调参/验证",
+    "inquiry_method": "三组试管分别模拟不同口腔条件，37℃水浴后碘液检验淀粉是否被分解",
+    "equipment": [
+      "试管（3支）",
+      "烧杯",
+      "量筒",
+      "水浴装置（约37℃）"
+    ],
+    "materials": [
+      "新鲜馒头",
+      "自身唾液",
+      "凉开水",
+      "碘液"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 准备材料：将馒头分成A/B两份切碎屑，C份留整块；用洁净的容器收集唾液"
+      },
+      {
+        "step": "2. 设置三组",
+        "substeps": [
+          "甲：A（碎屑）+ 2mL唾液 + 充分搅拌",
+          "乙：B（碎屑）+ 2mL凉开水 + 充分搅拌",
+          "丙：C（整块）+ 2mL唾液 + 不搅拌"
+        ]
+      },
+      {
+        "step": "3. 将三支试管同时放入37℃温水中保温5~10min"
+      },
+      {
+        "step": "4. 各滴2滴碘液，观察颜色变化"
+      }
+    ],
+    "data_recording": "记录甲、乙、丙各管碘液处理后的颜色深浅",
+    "independent_var": "2个（消化液种类: 唾液 vs 清水；物理处理: 切碎搅拌 vs 整块不搅拌）",
+    "dependent_var": "1个 定性（淀粉是否被分解——遇碘是否变蓝）",
+    "control_group": "有 甲乙丙三组互为对照",
+    "inquiry_skills": [
+      "37℃近似口腔温度（唾液淀粉酶最适温度）",
+      "淀粉遇碘变蓝，麦芽糖遇碘不变蓝",
+      "对照实验设计（多变量对照）"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Guided",
+      "experiment_design": "Guided",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "取唾液前需漱口",
+      "水浴温度保持在37℃",
+      "各管碘液滴加量一致"
+    ],
+    "notes": "甲（变蓝最浅）乙（变蓝）丙（变蓝较深）的结果对比，说明唾液和物理切碎搅拌共同作用于消化"
+  },
+  {
+    "id": "bio-7b-10",
+    "name": "观察小鱼尾鳍内血管及血液的流动",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "七年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "4.4.2",
+      "pages": [
+        111,
+        112
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "观察血液在血管内的流动情况，尝试分辨动脉、静脉和毛细血管",
+    "type": "观察/探索",
+    "inquiry_method": "湿纱布包裹小鱼保持湿润，尾鳍展开贴培养皿，低倍镜下观察血流方向和速度",
+    "equipment": [
+      "显微镜",
+      "培养皿",
+      "滴管",
+      "纱布",
+      "载玻片"
+    ],
+    "materials": [
+      "尾鳍色素少的活小鱼"
+    ],
+    "functional_components": "显微镜(调焦、低倍观察)",
+    "steps": [
+      {
+        "step": "1. 用湿纱布包裹小鱼的鳃盖和躯干部分，露出口和尾部"
+      },
+      {
+        "step": "2. 将小鱼侧放于培养皿中，使尾鳍平展，可加盖载玻片固定"
+      },
+      {
+        "step": "3. 低倍镜下观察尾鳍中的血液流动"
+      },
+      {
+        "step": "4. 找到最细小的血管（毛细血管），追踪其与较粗血管的分支汇合关系"
+      },
+      {
+        "step": "5. 实验结束后将鱼放回水中"
+      }
+    ],
+    "data_recording": "记录不同血管的血流速度、血流方向、红细胞是否单行通过",
+    "independent_var": "无",
+    "dependent_var": "1个 定性（不同血管类型的血流特点）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "动脉/静脉/毛细血管的区分方法（管径、血流速度、方向）",
+      "毛细血管红细胞单行通过",
+      "活体材料显微观察（保湿维持存活）"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "全程保持鱼体湿润，定时滴水",
+      "操作轻柔，减少对鱼的伤害",
+      "实验后放回水中"
+    ],
+    "notes": "动脉→毛细血管→静脉的血流方向和速度变化是观察重点；毛细血管单行红细胞是关键现象"
+  },
+  {
+    "id": "bio-8a-01",
+    "name": "膝跳反射",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "八年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "4.6.2",
+      "pages": [
+        15
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "尝试做膝跳反射实验，认识什么是反射",
+    "type": "观察/探索",
+    "inquiry_method": "两人一组，操作者叩击受试者髌韧带，观察小腿是否发生迅速前伸",
+    "equipment": [
+      "椅子"
+    ],
+    "materials": [],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 两人一组，确定受试者与操作者"
+      },
+      {
+        "step": "2. 受试者坐于椅子上，一腿着地，另一腿自然搭于其上"
+      },
+      {
+        "step": "3. 操作者用手掌内侧边缘迅速叩击受试者上方腿膝盖下方的韧带"
+      },
+      {
+        "step": "4. 观察该腿的反应并记录；讨论叩击部位、力度对结果的影响"
+      },
+      {
+        "step": "5. 两人互换角色重复实验"
+      }
+    ],
+    "data_recording": "记录小腿是否发生迅速前伸（定性）；讨论影响结果的操作因素",
+    "independent_var": "无",
+    "dependent_var": "1个 定性（小腿是否发生迅速前伸）",
+    "control_group": "无",
+    "inquiry_skills": [],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "受试者不要刻意控制腿部运动",
+      "叩击部位要准确（髌骨下方韧带处）"
+    ],
+    "notes": "非对照实验；重点在于体验非条件反射并讨论反射弧的组成"
+  },
+  {
+    "id": "bio-8a-02",
+    "name": "测定反应速度",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "八年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "4.6.2",
+      "pages": [
+        18,
+        19
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "围绕'反应快慢'相关问题，用落尺法设计并完成探究实验",
+    "type": "调参/验证",
+    "inquiry_method": "同伴竖握尺上端，被试拇食指对准0刻度，松手后夹尺读刻度，重复测量取均值",
+    "equipment": [
+      "直尺（米尺）"
+    ],
+    "materials": [],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 提出问题：小组自定探究问题（如反应速度是否与注意力、练习次数有关）"
+      },
+      {
+        "step": "2. 作出假设"
+      },
+      {
+        "step": "3. 制订计划：2~3人一组，明确捏尺位置、重复次数、读数方法，设计记录表格"
+      },
+      {
+        "step": "4. 实施计划：按方案测试，一人竖握尺上端，另一人拇食指对准0刻度待命；松手后夹尺读刻度，重复若干次"
+      },
+      {
+        "step": "5. 得出结论：分析各组数据"
+      },
+      {
+        "step": "6. 讨论方法的优缺点及改进建议"
+      }
+    ],
+    "data_recording": "记录每次夹住处的刻度值；可设计表格对比不同条件/不同人的结果",
+    "independent_var": "1个（由小组自定，常见：注意力状态、练习次数等）",
+    "dependent_var": "1个 定量（夹住处的刻度值，代表反应时长）",
+    "control_group": "有（不同条件或不同人互为对照，由小组设计）",
+    "inquiry_skills": [
+      "落尺法测反应时",
+      "统一观测标准（每次读数方法和姿势保持一致）",
+      "重复测量取均值减小误差"
+    ],
+    "inquiry_openness": {
+      "question": "Open",
+      "hypothesis": "Guided",
+      "experiment_design": "Structured",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "每次捏尺位置、手势要一致",
+      "重复次数组间相同，保证可比性"
+    ],
+    "notes": "本实验与\"统一观测标准\"科学方法栏目直接衔接；开放度较高，学生自拟探究问题"
+  },
+  {
+    "id": "bio-8a-03",
+    "name": "酒精对水蚤心率的影响",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "八年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "4.7.4",
+      "pages": [
+        63
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探究酒精浓度对水蚤心率的影响，联系饮酒对人体健康的危害",
+    "type": "调参/验证",
+    "inquiry_method": "配制不同体积分数的酒精溶液，显微镜下计时统计水蚤心跳次数",
+    "equipment": [
+      "显微镜",
+      "计时器",
+      "滴管",
+      "载玻片",
+      "盖玻片",
+      "量筒"
+    ],
+    "materials": [
+      "水蚤",
+      "蒸馏水",
+      "体积分数95%的酒精溶液"
+    ],
+    "functional_components": "显微镜(调焦、观察水蚤心脏搏动)、计时器(计数单位时间内心跳次数)",
+    "steps": [
+      {
+        "step": "1. 提出问题：酒精对水蚤心率有什么影响？"
+      },
+      {
+        "step": "2. 作出假设"
+      },
+      {
+        "step": "3. 制订计划：用蒸馏水将95%酒精梯度稀释，配制不同浓度溶液；确定分组方式（同只依次测或不同只分组）及对照"
+      },
+      {
+        "step": "4. 实施计划：取水蚤制临时装片，低倍镜下找到心脏，计时计数心跳次数"
+      },
+      {
+        "step": "5. 整理数据，分析酒精浓度与心率的关系"
+      },
+      {
+        "step": "6. 表达与交流"
+      }
+    ],
+    "data_recording": "记录各酒精浓度组水蚤单位时间内心跳次数",
+    "independent_var": "1个（酒精体积分数: 0%/清水 vs 低浓度 vs 较高浓度）",
+    "dependent_var": "1个 定量（水蚤心率，次/分钟）",
+    "control_group": "有 清水（0%酒精）组为对照，各酒精浓度组为实验组",
+    "inquiry_skills": [
+      "梯度稀释配制溶液",
+      "显微镜下活体心率计数（计时计数法）",
+      "控制单一变量原则"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Structured",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "酒精浓度过高会致死水蚤，注意控制浓度范围",
+      "爱护实验动物，实验后放回原培养液"
+    ],
+    "notes": "讨论同只水蚤依次测和不同水蚤分组测各自的优缺点；实验结论与青少年饮酒危害衔接"
+  },
+  {
+    "id": "bio-8a-04",
+    "name": "非生物因素对某种动物的影响",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "八年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "5.1.1",
+      "pages": [
+        78,
+        79
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探究某一非生物因素（如光、温度、水分）对所选动物生活或分布的影响",
+    "type": "调参/验证",
+    "inquiry_method": "选定动物和非生物因素，设计双区对照装置，定时观察计数动物在各区的分布",
+    "equipment": [
+      "纸盒或透明容器",
+      "隔板",
+      "计时器",
+      "温度计（按需）"
+    ],
+    "materials": [
+      "鼠妇或黄粉虫或金鱼或蚯蚓（自选）"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 提出问题：小组自定（如光对鼠妇分布有什么影响？）"
+      },
+      {
+        "step": "2. 作出假设"
+      },
+      {
+        "step": "3. 制订计划：设计实验装置（如明暗两区相通的纸盒），确定动物数量、观察时间间隔和记录方式"
+      },
+      {
+        "step": "4. 实施计划：将等量动物放入装置中央，每隔一定时间记录各区动物数量，重复多次"
+      },
+      {
+        "step": "5. 得出结论：分析数据，判断该非生物因素对动物的影响"
+      },
+      {
+        "step": "6. 表达与交流：汇报并分析各组结果差异的原因"
+      }
+    ],
+    "data_recording": "记录各时间点两区的动物数量，计算平均分布比例",
+    "independent_var": "1个（非生物因素：如光照有/无、温度高/低、土壤干/湿）",
+    "dependent_var": "1个 定量（各区动物数量或分布比例）",
+    "control_group": "有（两区互为对照，如明亮区 vs 阴暗区）",
+    "inquiry_skills": [
+      "对照实验设计",
+      "控制单一变量与等量原则（两区除变量外其他条件一致）"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "Guided",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "实验结束后将动物放回原来的环境",
+      "轻柔操作，避免伤害动物"
+    ],
+    "notes": "半开放探究：动物种类和非生物因素均可自选；教材提供鼠妇、黄粉虫、金鱼、蚯蚓等多种参考方案"
+  },
+  {
+    "id": "bio-8a-05",
+    "name": "酸雨对生物的影响",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "八年级上",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "5.2.1",
+      "pages": [
+        106,
+        107
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "在实验室条件下模拟酸雨，探究其对生物（种子萌发、幼苗生长或小动物等）的影响",
+    "type": "调参/验证",
+    "inquiry_method": "用食醋与清水配制模拟酸雨，对比与对照液处理下种子发芽率或幼苗生长的差异",
+    "equipment": [
+      "培养皿",
+      "烧杯",
+      "量筒",
+      "喷壶"
+    ],
+    "materials": [
+      "食醋",
+      "清水",
+      "植物种子或幼苗（或小鱼、蚯蚓等，自选）"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 用食醋和清水按一定比例混合，配制模拟酸雨"
+      },
+      {
+        "step": "2. 确定观测指标（种子发芽率、幼苗生长量或动物生活状况）"
+      },
+      {
+        "step": "3. 设置实验组（模拟酸雨处理）和对照组（清水处理），控制其他条件一致"
+      },
+      {
+        "step": "4. 培养并定期观察记录"
+      },
+      {
+        "step": "5. 分析结果，讨论模拟酸雨与真实酸雨的差别，联系生态影响"
+      }
+    ],
+    "data_recording": "记录各组发芽率、幼苗高度/长势等级或动物存活状况",
+    "independent_var": "1个（溶液酸碱性: 模拟酸雨 vs 清水对照）",
+    "dependent_var": "1~2个 定量/定性（发芽率、生长状况等）",
+    "control_group": "有 清水（正常pH）组为对照，模拟酸雨组为实验组",
+    "inquiry_skills": [
+      "食醋与清水配制特定pH溶液（模拟酸雨）",
+      "种子发芽率计算方法"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Guided",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "爱护小动物，实验后放回原环境",
+      "注意食醋对皮肤和眼睛的刺激"
+    ],
+    "notes": "教材强调模拟酸雨与真实酸雨存在差别，需在讨论中说明；实验目的兼顾生态保护意识培养"
+  },
+  {
+    "id": "bio-8b-01",
+    "name": "鸟卵适于在陆地上发育的结构特征",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "八年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "6.1.2",
+      "pages": [
+        14
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "①解剖并观察鸡卵的结构；②探究鸟卵适于在陆地上发育的结构特征",
+    "type": "观察/探索",
+    "inquiry_method": "解剖新鲜鸡卵，对照示意图观察卵壳、卵壳膜、气室、卵白、卵黄、胚盘等各部分结构",
+    "equipment": [
+      "放大镜",
+      "剪刀",
+      "镊子",
+      "烧杯（或培养皿）"
+    ],
+    "materials": [
+      "新鲜鸡卵"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 取一枚鸡卵，观察外形，用放大镜观察卵壳表面是否光滑"
+      },
+      {
+        "step": "2. 将鸡卵钝端轻轻敲出裂纹，用镊子将破裂的卵壳连同外壳膜除去，观察卵壳下面是否有一个小空腔（气室）"
+      },
+      {
+        "step": "3. 用剪刀将小空腔下面的内壳膜剪破，使卵白和卵黄流入烧杯（或培养皿）中"
+      },
+      {
+        "step": "4. 对照教材鸡卵结构示意图，观察卵白、卵黄、系带，注意观察卵黄上有无一个盘状的小白点（胚盘）"
+      }
+    ],
+    "data_recording": "记录鸡卵各部分结构名称和位置，推测各部分功能",
+    "independent_var": "无",
+    "dependent_var": "1个 定性（鸡卵各部分结构形态）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "解剖观察法（从钝端轻敲破壳，保留内壳膜）"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "操作轻柔，避免卵黄破裂",
+      "注意卫生，实验后洗手"
+    ],
+    "notes": "讨论：①各结构功能；②受精卵哪部分将发育成雏鸡；③总结鸟卵适于陆地发育的结构特征（卵壳保护+卵白/卵黄提供营养和水分）"
+  },
+  {
+    "id": "bio-8b-02",
+    "name": "模拟有性生殖过程中染色体和基因的传递",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "八年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "6.2.1",
+      "pages": [
+        29
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "通过模拟有性生殖过程中染色体和基因的传递，理解基因是随染色体由亲代传给子代的，并从基因角度解释同一双亲生出的后代会各不相同",
+    "type": "调参/验证",
+    "inquiry_method": "用纸圆盘模拟体细胞（含基因的染色体），随机从父方母方各取一条染色体模拟受精，重复4次记录基因组合",
+    "equipment": [
+      "剪刀"
+    ],
+    "materials": [
+      "纸",
+      "彩笔"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 2~4人一组，制作3个大圆盘（模拟双亲的体细胞和受精卵）和2个小圆盘（模拟精子和卵细胞）"
+      },
+      {
+        "step": "2. 准备两对纸条，用彩笔涂上两种颜色（模拟双亲体细胞中的染色体），在每个纸条（染色体）上标注3个基因，如abd或Abd等"
+      },
+      {
+        "step": "3. 每次随机从父方、母方的'染色体'中各取1条，模拟有性生殖过程中染色体和基因的传递，记录结果后放回原处"
+      },
+      {
+        "step": "4. 每组共做4次，将标注的基因组合记录在表格中"
+      }
+    ],
+    "data_recording": "记录4次模拟中精子、卵细胞、受精卵的基因组合，全班汇总统计各种组合出现的比例",
+    "independent_var": "无（随机事件）",
+    "dependent_var": "1个 定性（后代基因组合类型）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "模拟实验方法（用纸条模拟染色体和基因的传递过程）"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "每次取完记录后需放回，保证下次随机性"
+    ],
+    "notes": "讨论：①各小组结果是否相同，说明了什么；②各小组交流后发现是否一致；③为什么同一双亲生出的后代各不相同"
+  },
+  {
+    "id": "bio-8b-03",
+    "name": "模拟人的性别决定",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "八年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "6.2.3",
+      "pages": [
+        40
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "通过模拟精子与卵细胞的随机结合，探究人的性别决定，理解生男生女的机会是均等的",
+    "type": "调参/验证",
+    "inquiry_method": "黑棋子代表含Y精子，白棋子代表含X精子和卵细胞，从两盒各随机取一枚记录组合，重复10次统计性别比例",
+    "equipment": [
+      "纸盒（2个）"
+    ],
+    "materials": [
+      "黑色围棋子（代表含Y染色体的精子）",
+      "白色围棋子（代表含X染色体的精子和全部卵细胞）"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 将装有'精子'的纸盒摇匀，一位同学从精子盒中随机取一枚棋子（黑=XY精子，白=XX精子），另一位从卵细胞盒（全白）中取一枚"
+      },
+      {
+        "step": "2. 第三位同学记录两枚棋子代表的性染色体组成（黑+白=XY=男；白+白=XX=女）"
+      },
+      {
+        "step": "3. 取完记录后放回，重复10次"
+      },
+      {
+        "step": "4. 设计表格记录本小组结果，汇总全班数据统计男女比例"
+      }
+    ],
+    "data_recording": "记录每次组合结果（XX或XY），统计10次中男女各出现的次数，汇总全班比例",
+    "independent_var": "无（随机事件）",
+    "dependent_var": "1个 定量（XX与XY的出现比例）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "模拟实验方法（用棋子模拟配子随机结合）",
+      "大数定律（样本越大比例越接近理论值1:1）"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Structured",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Structured",
+      "conclusion": "Structured"
+    },
+    "cautions": [
+      "必须随机抽取，不可主观挑选",
+      "重复次数要足够多（汇总全班数据）"
+    ],
+    "notes": "讨论：①本小组模拟结果；②汇总全班数据结果；③模拟探究的结果说明了什么"
+  },
+  {
+    "id": "bio-8b-04",
+    "name": "花生果实大小的变异",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "八年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "6.2.4",
+      "pages": [
+        44,
+        45
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "通过测量和统计大小两种花生果实的长度，探究花生果实大小的变异，学习抽样检测和数据统计方法",
+    "type": "调参/验证",
+    "inquiry_method": "随机取大小花生各≥30粒，用刻度尺测量每粒果实长轴长度（mm），绘制曲线图或柱状图比较分布",
+    "equipment": [
+      "毫米刻度尺",
+      "坐标纸"
+    ],
+    "materials": [
+      "大花生若干粒（≥30粒）",
+      "小花生若干粒（≥30粒）"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 小组自行提出问题、作出假设"
+      },
+      {
+        "step": "2. 制订计划并实施：随机取样（不少于30粒），用毫米刻度尺逐粒测量果实长轴长度，记录数据"
+      },
+      {
+        "step": "3. 用表格记录测量数据，并用曲线图或柱状图直观表现测量结果"
+      },
+      {
+        "step": "4. 得出结论并交流：将结果图贴在教材，写出结论，汇报各组发现"
+      }
+    ],
+    "data_recording": "记录每粒花生果实长轴长度（mm）；计算平均值；绘制频率分布曲线或柱状图",
+    "independent_var": "1个（花生品种: 大花生 vs 小花生）",
+    "dependent_var": "1个 定量（果实长轴长度，mm）",
+    "control_group": "有 大花生组与小花生组互为对照",
+    "inquiry_skills": [
+      "抽样检测法（随机取样，样本不少于30粒）",
+      "毫米刻度尺测量",
+      "绘制频率分布曲线图或柱状图"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "Guided",
+      "experiment_design": "Structured",
+      "data_analysis": "Structured",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "取样必须随机，不可挑选",
+      "测量同一维度（长轴）保持一致"
+    ],
+    "notes": "讨论：①比较两品种长度分布，得出结论；②分别计算平均值；③把大花生种在贫瘠土壤中结果会如何？（遗传变异 vs 环境变异）；④从大花生中选最大的种下去，后代一定都是大的吗？"
+  },
+  {
+    "id": "bio-8b-05",
+    "name": "模拟保护色的形成过程",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "八年级下",
+    "source": {
+      "textbook": "人教版2024",
+      "chapter": "6.3.3",
+      "pages": [
+        64,
+        65
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "模拟自然选择过程，探究保护色的形成，认识保护色是自然选择的结果",
+    "type": "调参/验证",
+    "inquiry_method": "将各色小纸片撒在同色彩纸上，模拟捕食者快速取走显眼纸片，统计幸存者并补充后代，重复至少4轮",
+    "equipment": [
+      "约1平方米的正方形彩纸（或布）"
+    ],
+    "materials": [
+      "各种颜色的小纸片各若干张，共约100张（颜色代表动物不同体色变异类型）"
+    ],
+    "functional_components": "N/A",
+    "steps": [
+      {
+        "step": "1. 5~6人一组，推举一人为组长（监督者）"
+      },
+      {
+        "step": "2. 组长在桌上展开彩纸，均匀撒上各色小纸片，记录各色初始数目"
+      },
+      {
+        "step": "3. '捕食者'（其余同学）背对桌子，转身后快速逐张取走小纸片，直到彩纸上剩25张为止；注意不要特意寻找某种颜色"
+      },
+      {
+        "step": "4. 统计幸存各色纸片数目"
+      },
+      {
+        "step": "5. 假设每个'幸存者'产生3个后代（体色与自己相同），在每张幸存纸片下补放3张同色纸片"
+      },
+      {
+        "step": "6. 将幸存者与后代充分混合，重复第3~5步，至少重复4轮，每轮开始前记录各色纸片数目"
+      }
+    ],
+    "data_recording": "记录每一代各色纸片的开始数目和幸存数目（用表格记录第一至第五代数据）",
+    "independent_var": "1个（纸片颜色与背景的一致程度）",
+    "dependent_var": "1个 定量（各颜色纸片各代的幸存数量）",
+    "control_group": "有 与背景颜色一致的纸片 vs 不一致的纸片互为对照",
+    "inquiry_skills": [
+      "模拟实验设计（用纸片模拟种群表现型多样性和捕食选择压力）",
+      "幸存率统计及多代趋势分析"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Guided",
+      "experiment_design": "Structured",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "捕食者不要特意寻找某种颜色",
+      "每轮结束后需充分混合再开始下一轮",
+      "重复至少4轮才能体现趋势"
+    ],
+    "notes": "本实验模拟多代自然选择；与背景同色的纸片幸存率逐代升高，说明保护色是自然选择的结果"
+  },
+  {
+    "id": "bio-h1-01",
+    "name": "使用高倍显微镜观察几种细胞",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "1.2",
+      "pages": [
+        9,
+        10
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "使用高倍显微镜观察不同来源细胞，比较细胞异同并练习临时装片制作。",
+    "type": "观察/探索",
+    "inquiry_method": "通过临时装片与高倍显微观察，对不同细胞进行结构比较。",
+    "equipment": [
+      "显微镜",
+      "载玻片",
+      "盖玻片",
+      "镊子",
+      "滴管"
+    ],
+    "materials": [
+      "酵母菌或其他真菌材料",
+      "植物细胞材料",
+      "动物细胞材料",
+      "清水",
+      "生理盐水"
+    ],
+    "functional_components": "显微镜（调焦、切换放大倍数）",
+    "steps": [
+      {
+        "step": "1. 按材料分别制作临时装片"
+      },
+      {
+        "step": "2. 低倍镜下找到目标并移至视野中央"
+      },
+      {
+        "step": "3. 换高倍镜并用细准焦螺旋调焦观察"
+      },
+      {
+        "step": "4. 记录不同细胞的共同结构与差异"
+      }
+    ],
+    "data_recording": "记录不同细胞的形态特征、是否可见细胞壁/叶绿体等结构差异。",
+    "independent_var": "1个（观察对象类型）",
+    "dependent_var": "1个 定性（细胞结构特征）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "临时装片制作技术",
+      "高倍显微镜规范操作",
+      "显微结构比较记录"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "必须先低倍定位再切换高倍",
+      "临时装片保持湿润，避免气泡干扰"
+    ],
+    "notes": "原书栏目名为“探究·实践”，入库统一映射为“实验·探究”。"
+  },
+  {
+    "id": "bio-h1-02",
+    "name": "检测生物组织中的糖类、脂肪和蛋白质",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "2.1",
+      "pages": [
+        18,
+        19
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "使用化学试剂检测生物组织中糖类、脂肪和蛋白质。",
+    "type": "调参/验证",
+    "inquiry_method": "对不同样液进行显色反应和显微观察，判断有机物种类。",
+    "equipment": [
+      "试管",
+      "试管架",
+      "滴管",
+      "酒精灯",
+      "载玻片",
+      "盖玻片",
+      "显微镜"
+    ],
+    "materials": [
+      "梨匀浆",
+      "葡萄匀浆",
+      "花生种子",
+      "豆浆",
+      "鸡蛋清稀释液",
+      "斐林试剂",
+      "苏丹III染液",
+      "双缩脲试剂"
+    ],
+    "functional_components": "加热装置（水浴控温）、显微镜（观察）",
+    "steps": [
+      {
+        "step": "1. 预测各样本可能含有的有机物并设计记录表"
+      },
+      {
+        "step": "2. 用斐林试剂检测还原糖并进行水浴加热"
+      },
+      {
+        "step": "3. 对花生切片进行苏丹III染色后显微观察脂肪"
+      },
+      {
+        "step": "4. 用双缩脲试剂检测蛋白质并记录颜色变化"
+      }
+    ],
+    "data_recording": "记录各样本在不同试剂下的显色结果（可用+/-）。",
+    "independent_var": "1个（样本类型/试剂处理）",
+    "dependent_var": "1个 定性（显色结果）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "斐林试剂还原糖检测",
+      "苏丹III脂肪染色",
+      "双缩脲蛋白质检测",
+      "规范记录表设计"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Structured",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "斐林试剂甲乙液需现混现用",
+      "水浴温度按教材范围控制",
+      "脂肪染色后需酒精洗浮色"
+    ],
+    "notes": "以颜色变化作为主要判断依据。"
+  },
+  {
+    "id": "bio-h1-03",
+    "name": "用高倍显微镜观察叶绿体和细胞质的流动",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "3.2",
+      "pages": [
+        50
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "观察叶绿体形态分布和细胞质流动现象。",
+    "type": "观察/探索",
+    "inquiry_method": "制备叶片临时装片并在高倍镜下连续观察活细胞变化。",
+    "equipment": [
+      "显微镜",
+      "载玻片",
+      "盖玻片",
+      "滴管",
+      "镊子"
+    ],
+    "materials": [
+      "藓类叶或菠菜叶",
+      "黑藻",
+      "清水"
+    ],
+    "functional_components": "显微镜（调焦、持续观察）",
+    "steps": [
+      {
+        "step": "1. 制作叶片临时装片并保持湿润"
+      },
+      {
+        "step": "2. 低倍定位后切换高倍观察叶绿体形态与分布"
+      },
+      {
+        "step": "3. 观察细胞质流动及叶绿体随流动变化"
+      }
+    ],
+    "data_recording": "记录叶绿体位置、形态及细胞质流动方向与快慢特征。",
+    "independent_var": "无",
+    "dependent_var": "1个 定性（叶绿体/细胞质动态现象）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "活细胞显微观察",
+      "连续动态观察记录"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "装片不可干片",
+      "黑藻材料需预处理保持活性"
+    ],
+    "notes": "重点是动态过程观察。"
+  },
+  {
+    "id": "bio-h1-04",
+    "name": "尝试制作真核细胞的三维结构模型",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "3.3",
+      "pages": [
+        57
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "通过建模表达真核细胞结构并理解结构间关系。",
+    "type": "工程/制作",
+    "inquiry_method": "选材并按结构对应关系制作真核细胞三维模型。",
+    "equipment": [
+      "剪刀",
+      "胶水（或连接工具）"
+    ],
+    "materials": [
+      "泡沫塑料",
+      "纸板",
+      "线绳",
+      "细铁丝",
+      "其他建模材料"
+    ],
+    "functional_components": "模型组件（可拆装、可标注结构）",
+    "steps": [
+      {
+        "step": "1. 小组确定模型类型与结构分工"
+      },
+      {
+        "step": "2. 选择材料并制作各细胞结构组件"
+      },
+      {
+        "step": "3. 组装整体模型并进行标注"
+      },
+      {
+        "step": "4. 依据科学性与可解释性进行修订"
+      }
+    ],
+    "data_recording": "记录模型结构对应关系与展示评价意见。",
+    "independent_var": "无",
+    "dependent_var": "无",
+    "control_group": "无",
+    "inquiry_skills": [
+      "生物结构建模",
+      "结构功能对应表达"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "N/A",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "以科学准确性优先于美观效果"
+    ],
+    "notes": "与“科学方法：建构模型”对应。"
+  },
+  {
+    "id": "bio-h1-05",
+    "name": "探究植物细胞的吸水和失水",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "4.1",
+      "pages": [
+        64,
+        65
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探究植物细胞在不同外界溶液条件下的吸水与失水现象。",
+    "type": "调参/验证",
+    "inquiry_method": "用蔗糖溶液与清水处理洋葱表皮细胞并显微比较变化。",
+    "equipment": [
+      "显微镜",
+      "载玻片",
+      "盖玻片",
+      "滴管",
+      "吸水纸",
+      "镊子"
+    ],
+    "materials": [
+      "紫色洋葱鳞片叶",
+      "0.3 g/mL蔗糖溶液",
+      "清水"
+    ],
+    "functional_components": "显微镜（观察液泡/原生质层变化）",
+    "steps": [
+      {
+        "step": "1. 制作洋葱外表皮清水临时装片并初次观察"
+      },
+      {
+        "step": "2. 滴加蔗糖溶液并引流，重复后观察质壁分离"
+      },
+      {
+        "step": "3. 再滴加清水并引流，观察复原变化"
+      },
+      {
+        "step": "4. 记录液泡大小与原生质层位置变化"
+      }
+    ],
+    "data_recording": "按处理条件记录液泡大小、原生质层位置和细胞状态变化。",
+    "independent_var": "1个（外界溶液浓度：蔗糖溶液/清水）",
+    "dependent_var": "1个 定性（质壁分离与复原状态）",
+    "control_group": "有 清水处理作为对照",
+    "inquiry_skills": [
+      "盖玻片引流换液技术",
+      "质壁分离现象判定",
+      "对照记录表填写"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Structured",
+      "experiment_design": "Structured",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "换液需重复，确保处理液充分作用",
+      "避免压坏表皮细胞"
+    ],
+    "notes": "教材引导“提出问题-假设-分析结论”。"
+  },
+  {
+    "id": "bio-h1-06",
+    "name": "比较过氧化氢在不同条件下的分解",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "5.1",
+      "pages": [
+        77,
+        78
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "比较不同条件下过氧化氢分解速率，认识酶的催化作用。",
+    "type": "调参/验证",
+    "inquiry_method": "设置加热、FeCl3、肝脏研磨液等处理，比较反应现象与速率。",
+    "equipment": [
+      "试管",
+      "量筒",
+      "滴管",
+      "试管架",
+      "温度计",
+      "酒精灯",
+      "水浴装置"
+    ],
+    "materials": [
+      "3%过氧化氢溶液",
+      "3.5%FeCl3溶液",
+      "20%肝脏研磨液"
+    ],
+    "functional_components": "反应体系（加试剂、温控、现象检测）",
+    "steps": [
+      {
+        "step": "1. 4支试管分别加入等量过氧化氢溶液"
+      },
+      {
+        "step": "2. 对不同试管施加不同条件处理（加热/加FeCl3/加肝脏研磨液）"
+      },
+      {
+        "step": "3. 观察气泡与复燃现象并记录反应快慢"
+      }
+    ],
+    "data_recording": "记录各组气泡多少及卫生香复燃情况，比较分解速率。",
+    "independent_var": "1个（反应条件类型）",
+    "dependent_var": "1个 定性+定量（分解速率/气泡强弱）",
+    "control_group": "有 空白处理组作为对照",
+    "inquiry_skills": [
+      "控制变量法",
+      "对照实验设计",
+      "酶促反应速率比较"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "溶液尽量现配现用",
+      "加热与试剂加入顺序按教材执行"
+    ],
+    "notes": "同节“科学方法”对变量定义有明确说明。"
+  },
+  {
+    "id": "bio-h1-07",
+    "name": "淀粉酶对淀粉和蔗糖的水解作用",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "5.1",
+      "pages": [
+        81,
+        82
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "验证淀粉酶催化作用的专一性。",
+    "type": "调参/验证",
+    "inquiry_method": "设置不同底物（淀粉/蔗糖）并进行显色检测比较。",
+    "equipment": [
+      "试管",
+      "滴管",
+      "量筒",
+      "温度计",
+      "酒精灯",
+      "水浴装置"
+    ],
+    "materials": [
+      "2%淀粉酶溶液",
+      "3%可溶性淀粉溶液",
+      "3%蔗糖溶液",
+      "斐林试剂"
+    ],
+    "functional_components": "温控反应体系（保温、加热、显色）",
+    "steps": [
+      {
+        "step": "1. 两组分别加入不同底物并加入淀粉酶"
+      },
+      {
+        "step": "2. 在约60℃条件下保温反应"
+      },
+      {
+        "step": "3. 加斐林试剂并加热，观察颜色变化"
+      },
+      {
+        "step": "4. 比较两组结果得出酶专一性结论"
+      }
+    ],
+    "data_recording": "记录两组显色差异并对应到底物类型。",
+    "independent_var": "1个（底物类型：淀粉/蔗糖）",
+    "dependent_var": "1个 定性（显色结果）",
+    "control_group": "有 两底物组互为对照",
+    "inquiry_skills": [
+      "底物对照设计",
+      "斐林试剂检测还原糖",
+      "酶专一性判读"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Structured",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "淀粉酶需新配制",
+      "保温与煮沸时间要一致"
+    ],
+    "notes": "第82页上部为该实验续页。"
+  },
+  {
+    "id": "bio-h1-08",
+    "name": "影响酶活性的条件",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "5.1",
+      "pages": [
+        82,
+        83
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探究温度、pH等因素对酶活性的影响。",
+    "type": "调参/验证",
+    "inquiry_method": "围绕温度或pH单因素设计实验并比较酶促反应差异。",
+    "equipment": [
+      "试管",
+      "滴管",
+      "量筒",
+      "温度计",
+      "pH试纸",
+      "酒精灯",
+      "水浴装置"
+    ],
+    "materials": [
+      "肝研磨液",
+      "缓冲液",
+      "3%过氧化氢溶液",
+      "3%可溶性淀粉溶液",
+      "盐酸",
+      "NaOH溶液",
+      "碘液",
+      "斐林试剂"
+    ],
+    "functional_components": "实验设计组件（变量设置、对照、重复、记录）",
+    "steps": [
+      {
+        "step": "1. 提出具体问题并作出可检验假设"
+      },
+      {
+        "step": "2. 明确自变量、因变量和对照组方案"
+      },
+      {
+        "step": "3. 完成实验操作并记录数据"
+      },
+      {
+        "step": "4. 分析数据并形成结论与应用讨论"
+      }
+    ],
+    "data_recording": "按实验方案记录不同处理条件下的反应现象或速率。",
+    "independent_var": "1个（温度或pH）",
+    "dependent_var": "1个 定性/定量（酶活性表现）",
+    "control_group": "有 由小组按方案设置基准组",
+    "inquiry_skills": [
+      "变量定义与控制",
+      "对照实验设计",
+      "酶活性数据记录"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "Guided",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "同批实验尽量保持无关变量一致",
+      "注意酸碱和加热操作安全"
+    ],
+    "notes": "该实验开放度较高，细化参数由学生方案决定。"
+  },
+  {
+    "id": "bio-h1-09",
+    "name": "探究酵母菌细胞呼吸的方式",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "5.3",
+      "pages": [
+        90,
+        91
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "比较酵母菌在有氧和无氧条件下的细胞呼吸产物差异。",
+    "type": "调参/验证",
+    "inquiry_method": "构建有氧/无氧对照体系并检测CO2与酒精。",
+    "equipment": [
+      "锥形瓶",
+      "导管",
+      "试管",
+      "滴管",
+      "温控培养条件"
+    ],
+    "materials": [
+      "酵母菌",
+      "5%葡萄糖溶液",
+      "10%NaOH溶液",
+      "石灰水",
+      "溴麝香草酚蓝溶液",
+      "重铬酸钾",
+      "浓硫酸"
+    ],
+    "functional_components": "呼吸反应装置（通气、封闭、产物检测）",
+    "steps": [
+      {
+        "step": "1. 建立有氧组与无氧组培养体系"
+      },
+      {
+        "step": "2. 控制温度并培养一定时间"
+      },
+      {
+        "step": "3. 检测CO2产生情况并比较快慢"
+      },
+      {
+        "step": "4. 检测酒精并结合数据分析呼吸方式"
+      }
+    ],
+    "data_recording": "记录石灰水/指示剂变化和酒精检测结果。",
+    "independent_var": "1个（氧气条件：有氧/无氧）",
+    "dependent_var": "2个（CO2产生表现、酒精检测结果）",
+    "control_group": "有 有氧组与无氧组互为对照",
+    "inquiry_skills": [
+      "有氧无氧对照设计",
+      "CO2检测",
+      "酒精鉴定操作"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "Guided",
+      "experiment_design": "Structured",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "浓硫酸具腐蚀性，操作需防护",
+      "培养时长需满足产物检测要求"
+    ],
+    "notes": "教材强调“对比实验”思想。"
+  },
+  {
+    "id": "bio-h1-10",
+    "name": "绿叶中色素的提取和分离",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "5.4",
+      "pages": [
+        98,
+        99
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "提取并分离绿叶色素，识别色素种类和分布特点。",
+    "type": "技能训练",
+    "inquiry_method": "通过研磨提取和纸层析分离观察色素带差异。",
+    "equipment": [
+      "研钵",
+      "滤纸",
+      "漏斗",
+      "试管",
+      "毛细吸管",
+      "量筒"
+    ],
+    "materials": [
+      "新鲜绿叶",
+      "无水乙醇",
+      "层析液",
+      "二氧化硅",
+      "碳酸钙"
+    ],
+    "functional_components": "层析分离系统（点样、展开、观察）",
+    "steps": [
+      {
+        "step": "1. 研磨绿叶并提取色素滤液"
+      },
+      {
+        "step": "2. 制备滤纸条并点样成细线"
+      },
+      {
+        "step": "3. 放入层析液进行色素分离"
+      },
+      {
+        "step": "4. 记录色素带数量、颜色和宽窄"
+      }
+    ],
+    "data_recording": "记录色素带条数、排序、颜色和宽窄。",
+    "independent_var": "无",
+    "dependent_var": "1个 定性（色素分离条带特征）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "纸层析分离技术",
+      "滤液细线规范点样",
+      "色素条带判读"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "滤液细线不得接触层析液液面",
+      "层析液有挥发性和毒性，应通风操作"
+    ],
+    "notes": "实验技能性较强。"
+  },
+  {
+    "id": "bio-h1-11",
+    "name": "探究环境因素对光合作用强度的影响",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "5.4",
+      "pages": [
+        105
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探究环境因素（参考案例为光照强度）对光合作用强度的影响。",
+    "type": "调参/验证",
+    "inquiry_method": "以光照强度为变量，通过叶片浮起数量比较光合作用强弱。",
+    "equipment": [
+      "打孔器",
+      "注射器",
+      "LED灯",
+      "米尺",
+      "烧杯"
+    ],
+    "materials": [
+      "绿叶材料",
+      "1%-2%NaHCO3溶液",
+      "清水"
+    ],
+    "functional_components": "光照调节组件（光源距离控制）",
+    "steps": [
+      {
+        "step": "1. 制备叶圆片并抽气使其下沉"
+      },
+      {
+        "step": "2. 在不同光照强度条件下处理叶圆片"
+      },
+      {
+        "step": "3. 记录同一时间内浮起叶圆片数量并比较"
+      }
+    ],
+    "data_recording": "记录各光照条件下单位时间浮起叶片数量。",
+    "independent_var": "1个（光照强度）",
+    "dependent_var": "1个 定量（浮起叶片数量）",
+    "control_group": "有 以固定光照条件作为基准组",
+    "inquiry_skills": [
+      "单因素变量控制",
+      "叶圆片浮沉法操作",
+      "定时计数记录"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Structured",
+      "experiment_design": "Structured",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "叶片取样尽量一致并避开大叶脉",
+      "抽气步骤需保证叶片充分下沉"
+    ],
+    "notes": "教材以“参考案例”形式给出。"
+  },
+  {
+    "id": "bio-h1-12",
+    "name": "观察根尖分生区组织细胞的有丝分裂",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修1",
+    "source": {
+      "textbook": "人教版高中生物必修1",
+      "chapter": "6.1",
+      "pages": [
+        116,
+        117
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "观察有丝分裂不同时期并通过计数比较各时期出现比例。",
+    "type": "观察/探索",
+    "inquiry_method": "完成解离-漂洗-染色-制片后进行显微观察与统计。",
+    "equipment": [
+      "显微镜",
+      "载玻片",
+      "盖玻片",
+      "玻璃皿",
+      "剪刀",
+      "镊子",
+      "滴管"
+    ],
+    "materials": [
+      "洋葱根尖",
+      "甲紫溶液",
+      "15%盐酸",
+      "95%酒精"
+    ],
+    "functional_components": "显微观察与计数组件（时期识别、统计）",
+    "steps": [
+      {
+        "step": "1. 培养根尖并取材"
+      },
+      {
+        "step": "2. 进行解离、漂洗、染色和压片制备"
+      },
+      {
+        "step": "3. 低倍定位分生区后高倍观察各时期细胞"
+      },
+      {
+        "step": "4. 统计各时期细胞数并绘制简图"
+      }
+    ],
+    "data_recording": "记录间期、前期、中期、后期、末期细胞数及比例。",
+    "independent_var": "无",
+    "dependent_var": "1个 定量（各时期细胞计数）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "根尖压片制片技术",
+      "有丝分裂时期识别",
+      "视野计数统计法",
+      "生物学简图绘制"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "防止解离过度",
+      "压片动作轻柔避免样本破坏"
+    ],
+    "notes": "可结合全班数据求平均以减少误差。"
+  },
+  {
+    "id": "bio-h2-01",
+    "name": "性状分离比的模拟实验",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修2",
+    "source": {
+      "textbook": "人教版高中生物必修2",
+      "chapter": "1.1",
+      "pages": [
+        6
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "通过模拟实验理解遗传因子分离、配子随机结合与性状分离比之间的关系。",
+    "type": "调参/验证",
+    "inquiry_method": "使用两组随机抽取并回放的彩片模拟配子结合，统计组合比例。",
+    "equipment": [
+      "小桶（2个）",
+      "记录纸笔"
+    ],
+    "materials": [
+      "两种颜色小圆片（可标记D、d）"
+    ],
+    "functional_components": "随机抽取组件（抽取、回放、重复统计）",
+    "steps": [
+      {
+        "step": "1. 在两个容器中各放入两类彩片并充分混合"
+      },
+      {
+        "step": "2. 每轮分别从两个容器随机抽取1个并记录组合"
+      },
+      {
+        "step": "3. 抽取后放回原容器并再次混合"
+      },
+      {
+        "step": "4. 重复30次以上并统计各组合比例"
+      }
+    ],
+    "data_recording": "记录每轮组合类型及最终比例，可汇总全班平均值。",
+    "independent_var": "无",
+    "dependent_var": "1个 定量（各组合类型出现比例）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "随机抽样操作",
+      "模拟实验建模",
+      "频数统计与比例计算"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Structured",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "每次抽取后必须放回并混匀，保证随机性"
+    ],
+    "notes": "教材栏目名为“探究·实践”，入库统一映射为“实验·探究”。"
+  },
+  {
+    "id": "bio-h2-02",
+    "name": "观察蝗虫精母细胞减数分裂装片",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修2",
+    "source": {
+      "textbook": "人教版高中生物必修2",
+      "chapter": "2.1",
+      "pages": [
+        24
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "观察并识别减数分裂不同时期细胞中染色体的形态、位置和数目变化。",
+    "type": "观察/探索",
+    "inquiry_method": "在低倍定位后高倍观察减数分裂不同阶段细胞并进行分期记录。",
+    "equipment": [
+      "显微镜"
+    ],
+    "materials": [
+      "蝗虫精母细胞减数分裂装片"
+    ],
+    "functional_components": "显微观察组件（低倍定位、高倍分期观察）",
+    "steps": [
+      {
+        "step": "1. 低倍镜下识别不同类型细胞并定位目标区域"
+      },
+      {
+        "step": "2. 高倍镜下观察减数分裂I和II各时期染色体状态"
+      },
+      {
+        "step": "3. 绘制主要时期细胞简图并整理观察结果"
+      }
+    ],
+    "data_recording": "记录各时期细胞特征并完成分期简图。",
+    "independent_var": "无",
+    "dependent_var": "1个 定性（染色体形态/位置/数目）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "减数分裂分期识别",
+      "显微镜规范观察",
+      "细胞简图绘制"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "必须先低倍定位再切换高倍观察"
+    ],
+    "notes": "重点识别减数分裂I与II的阶段差异。"
+  },
+  {
+    "id": "bio-h2-03",
+    "name": "建立减数分裂中染色体变化的模型",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修2",
+    "source": {
+      "textbook": "人教版高中生物必修2",
+      "chapter": "2.1",
+      "pages": [
+        25
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "通过模型建构呈现减数分裂过程中染色体行为与数目变化。",
+    "type": "工程/制作",
+    "inquiry_method": "利用不同颜色材料构建同源染色体并分步骤模拟减数分裂过程。",
+    "equipment": [
+      "无"
+    ],
+    "materials": [
+      "白纸",
+      "彩笔",
+      "橡皮泥/扭扭棒/纸条等建模材料"
+    ],
+    "functional_components": "模型构建组件（染色体配对、排列、分离过程模拟）",
+    "steps": [
+      {
+        "step": "1. 制作父源和母源两种颜色的染色体模型"
+      },
+      {
+        "step": "2. 在细胞轮廓内摆放并模拟同源染色体配对"
+      },
+      {
+        "step": "3. 模拟赤道板排列、分离及两次分裂过程"
+      },
+      {
+        "step": "4. 对不同阶段模型进行展示与解释"
+      }
+    ],
+    "data_recording": "记录各阶段模型状态及对应生物学意义。",
+    "independent_var": "无",
+    "dependent_var": "无",
+    "control_group": "无",
+    "inquiry_skills": [
+      "过程模型建构",
+      "同源染色体配对与分离表征",
+      "模型解释表达"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "N/A",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "同源染色体颜色编码需全程一致"
+    ],
+    "notes": "属于模型活动，不涉及定量测量。"
+  },
+  {
+    "id": "bio-h2-04",
+    "name": "制作DNA双螺旋结构模型",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修2",
+    "source": {
+      "textbook": "人教版高中生物必修2",
+      "chapter": "3.2",
+      "pages": [
+        51
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "通过建模深化对DNA双螺旋结构关键特征的理解。",
+    "type": "工程/制作",
+    "inquiry_method": "将不同材料映射为磷酸、脱氧核糖和碱基，构建双链反向平行和互补配对结构。",
+    "equipment": [
+      "无"
+    ],
+    "materials": [
+      "曲别针",
+      "泡沫塑料",
+      "纸片",
+      "扭扭棒",
+      "牙签",
+      "橡皮泥",
+      "铁丝等"
+    ],
+    "functional_components": "DNA结构模型组件（骨架连接、碱基配对、双螺旋）",
+    "steps": [
+      {
+        "step": "1. 设计不同材料对应的DNA结构单元"
+      },
+      {
+        "step": "2. 构建脱氧核苷酸并连接成两条链"
+      },
+      {
+        "step": "3. 表达碱基互补配对和反向平行关系"
+      },
+      {
+        "step": "4. 完成模型并进行结构解释讨论"
+      }
+    ],
+    "data_recording": "无",
+    "independent_var": "无",
+    "dependent_var": "无",
+    "control_group": "无",
+    "inquiry_skills": [
+      "分子结构建模",
+      "碱基互补配对表达",
+      "双链方向关系表达"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "N/A",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "模型中需清晰体现反向平行和互补配对"
+    ],
+    "notes": "以模型科学性为评价核心。"
+  },
+  {
+    "id": "bio-h2-05",
+    "name": "低温诱导植物细胞染色体数目的变化",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修2",
+    "source": {
+      "textbook": "人教版高中生物必修2",
+      "chapter": "5.2",
+      "pages": [
+        89
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "学习低温诱导导致植物细胞染色体数目变化的方法并观察结果。",
+    "type": "调参/验证",
+    "inquiry_method": "对根尖进行低温处理后制片染色并显微比较染色体数目变化。",
+    "equipment": [
+      "培养皿",
+      "镊子",
+      "剪刀",
+      "显微镜",
+      "载玻片",
+      "盖玻片",
+      "冰箱"
+    ],
+    "materials": [
+      "蒜或洋葱根尖",
+      "卡诺氏液",
+      "甲紫溶液",
+      "15%盐酸",
+      "95%酒精"
+    ],
+    "functional_components": "处理与观察组件（低温诱导、固定染色、显微计数）",
+    "steps": [
+      {
+        "step": "1. 先室温培养根尖，再进行低温诱导48-72小时"
+      },
+      {
+        "step": "2. 剪取根尖后固定、漂洗并完成制片染色"
+      },
+      {
+        "step": "3. 低倍定位分裂象，高倍观察染色体变化并记录"
+      }
+    ],
+    "data_recording": "记录诱导组与对照组的细胞染色体观察差异。",
+    "independent_var": "1个（低温处理）",
+    "dependent_var": "1个 定性/定量（染色体数目变化）",
+    "control_group": "有 对照组（未低温诱导）",
+    "inquiry_skills": [
+      "低温诱导处理",
+      "根尖制片染色技术",
+      "显微对照观察"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "按流程完成固定、漂洗、染色，避免制片质量影响观察"
+    ],
+    "notes": "教材含“对照”和“诱导处理”显微图。"
+  },
+  {
+    "id": "bio-h2-06",
+    "name": "调查人群中的遗传病",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修2",
+    "source": {
+      "textbook": "人教版高中生物必修2",
+      "chapter": "5.3",
+      "pages": [
+        93
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "学习遗传病人群调查和发病率统计方法，了解遗传病在人群中的分布情况。",
+    "type": "观察/探索",
+    "inquiry_method": "开展家庭/家系调查并汇总样本数据计算遗传病发病率。",
+    "equipment": [
+      "无"
+    ],
+    "materials": [
+      "调查记录表",
+      "家庭或家系样本信息"
+    ],
+    "functional_components": "调查统计组件（样本收集、汇总计算）",
+    "steps": [
+      {
+        "step": "1. 小组分工确定调查病种和样本范围"
+      },
+      {
+        "step": "2. 调查4-10个家庭或家系并记录患者和总人数"
+      },
+      {
+        "step": "3. 班级/年级汇总数据并计算发病率"
+      }
+    ],
+    "data_recording": "记录被调查人数、患者人数并按公式计算发病率。",
+    "independent_var": "1个（调查病种或样本来源）",
+    "dependent_var": "1个 定量（发病率）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "调查抽样记录",
+      "发病率公式计算",
+      "样本汇总统计"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "N/A",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "样本量越大，统计结果越稳定"
+    ],
+    "notes": "属于调查型探究，不是实验室操作。"
+  },
+  {
+    "id": "bio-h2-07",
+    "name": "探究自然选择对种群基因频率变化的影响",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修2",
+    "source": {
+      "textbook": "人教版高中生物必修2",
+      "chapter": "6.3",
+      "pages": [
+        112,
+        113
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "通过情境建模和计算探究自然选择如何改变种群基因频率。",
+    "type": "调参/验证",
+    "inquiry_method": "提出假设并按不同选择参数进行代际频率计算和趋势比较。",
+    "equipment": [
+      "无"
+    ],
+    "materials": [
+      "基因型频率计算表",
+      "案例参数（如桦尺蛾情境）"
+    ],
+    "functional_components": "计算探究组件（参数设定、代际计算、趋势比较）",
+    "steps": [
+      {
+        "step": "1. 提出问题并作出关于频率变化的假设"
+      },
+      {
+        "step": "2. 设置初始基因型频率和选择条件"
+      },
+      {
+        "step": "3. 逐代计算基因型和基因频率并记录"
+      },
+      {
+        "step": "4. 比较不同参数下变化趋势并得出结论"
+      }
+    ],
+    "data_recording": "记录各代SS、Ss、ss及S、s频率变化。",
+    "independent_var": "1个（环境选择压力参数）",
+    "dependent_var": "1个 定量（基因频率变化）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "种群遗传频率计算",
+      "参数化情境建模",
+      "代际趋势分析"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "Guided",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "计算过程中需保持参数定义一致，避免代际口径不统一"
+    ],
+    "notes": "跨页探究任务。"
+  },
+  {
+    "id": "bio-h2-08",
+    "name": "探究抗生素对细菌的选择作用",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中必修2",
+    "source": {
+      "textbook": "人教版高中生物必修2",
+      "chapter": "6.3",
+      "pages": [
+        115
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "通过平板培养与传代比较，观察抗生素对细菌的选择作用。",
+    "type": "调参/验证",
+    "inquiry_method": "设置含/不含抗生素纸片对照区，培养并测量抑菌圈变化。",
+    "equipment": [
+      "培养皿",
+      "镊子",
+      "涂布器",
+      "灭菌棉签",
+      "记号笔",
+      "直尺",
+      "恒温箱"
+    ],
+    "materials": [
+      "牛肉膏蛋白胨培养基平板",
+      "细菌菌株",
+      "含抗生素滤纸片",
+      "不含抗生素纸片"
+    ],
+    "functional_components": "微生物培养组件（涂布、对照放片、恒温培养、抑菌圈测量）",
+    "steps": [
+      {
+        "step": "1. 划分平板区域并涂布细菌培养液"
+      },
+      {
+        "step": "2. 分区放置含抗生素与不含抗生素纸片"
+      },
+      {
+        "step": "3. 恒温培养后记录生长情况和抑菌圈直径"
+      },
+      {
+        "step": "4. 从抑菌圈边缘传代并重复测量比较各代变化"
+      }
+    ],
+    "data_recording": "记录各区菌生长情况及每代抑菌圈直径。",
+    "independent_var": "2个（抗生素处理、有无传代）",
+    "dependent_var": "1个 定量（抑菌圈直径）",
+    "control_group": "有 不含抗生素纸片区域为对照",
+    "inquiry_skills": [
+      "平板涂布与无菌操作",
+      "抑菌圈测量",
+      "连续传代比较"
+    ],
+    "inquiry_openness": {
+      "question": "Structured",
+      "hypothesis": "Structured",
+      "experiment_design": "Structured",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "实验后培养物和耗材需高温灭菌处理"
+    ],
+    "notes": "教材“注意”强调生物安全处理。"
+  },
+  {
+    "id": "bio-se1-01",
+    "name": "模拟生物体维持pH的稳定",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修1",
+    "source": {
+      "textbook": "人教版高中生物选择性必修1",
+      "chapter": "1.2",
+      "pages": [
+        7,
+        8
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "通过比较自来水、缓冲液和肝匀浆在加入酸或碱后pH的变化，推测生物体维持pH稳定的机制。",
+    "type": "调参/验证",
+    "inquiry_method": "逐滴加入HCl或NaOH，比较三种材料pH变化并绘制曲线。",
+    "equipment": [
+      "防护手套",
+      "护目镜",
+      "50 mL烧杯",
+      "50 mL量筒",
+      "pH计或pH试纸",
+      "滴瓶"
+    ],
+    "materials": [
+      "自来水",
+      "0.1 mol/L盐酸",
+      "0.1 mol/L NaOH",
+      "pH为7的磷酸盐缓冲液",
+      "肝匀浆"
+    ],
+    "functional_components": "pH计（测量pH变化）；磷酸盐缓冲液（模拟生物体缓冲对）",
+    "steps": [
+      {
+        "step": "1. 设计记录表格（行：三种材料，列：加入0/5/10/15/20/25/30滴后pH）"
+      },
+      {
+        "step": "2. 量取25 mL自来水，测起始pH"
+      },
+      {
+        "step": "3. 每次加一滴HCl，每加5滴测一次pH至30滴，记录数据"
+      },
+      {
+        "step": "4. 洗杯后换碱处理，步骤同上"
+      },
+      {
+        "step": "5. 用缓冲液代替自来水重复步骤2-4"
+      },
+      {
+        "step": "6. 用肝匀浆代替自来水重复步骤2-4"
+      },
+      {
+        "step": "7. 绘制三种材料的pH-滴数折线曲线图"
+      }
+    ],
+    "data_recording": "表格记录三种材料在不同滴数下的pH值，并绘制折线图（实线=加酸，虚线=加碱）。",
+    "independent_var": "2个（实验材料种类；加入酸/碱的滴数）",
+    "dependent_var": "1个 定量（pH值）",
+    "control_group": "有 自来水组（无缓冲物质，作为基准对照）",
+    "inquiry_skills": [
+      "pH计/pH试纸的规范使用",
+      "逐滴加液并分步测定",
+      "折线曲线图绘制",
+      "生物材料制备（肝匀浆）"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "Confirmation",
+      "experiment_design": "Structured",
+      "data_analysis": "Structured",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "HCl和NaOH均有腐蚀性，避免接触皮肤和眼睛",
+      "若酸/碱溅到皮肤，立即用清水冲洗15分钟并告知老师"
+    ],
+    "notes": "拓展：可用动物血浆、稀释鸡蛋清或马铃薯匀浆替代肝匀浆。教材栏目名'探究·实践'。"
+  },
+  {
+    "id": "bio-se1-02",
+    "name": "探索生长素类调节剂促进插条生根的最适浓度",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修1",
+    "source": {
+      "textbook": "人教版高中生物选择性必修1",
+      "chapter": "5.3",
+      "pages": [
+        103,
+        104
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探索生长素类调节剂促进某种植物插条生根的最适浓度。",
+    "type": "调参/验证",
+    "inquiry_method": "设计不同浓度梯度处理插条，以生根数为指标绘制浓度-效果曲线确定最适浓度。",
+    "equipment": [
+      "花盆",
+      "量筒"
+    ],
+    "materials": [
+      "当地植物一年生枝条",
+      "蒸馏水",
+      "生长素类调节剂（NAA/2,4-D/IBA等选其一）",
+      "细沙（扦插基质）"
+    ],
+    "functional_components": "生长素类调节剂（调节插条生根）",
+    "steps": [
+      {
+        "step": "1. 参考文献设计浓度梯度（建议先做大梯度预实验）"
+      },
+      {
+        "step": "2. 选用泡浸法（基部浸入溶液约3 cm，处理数小时至一天）或沾蘸法（蘸高浓度液约5 s）"
+      },
+      {
+        "step": "3. 控制无关变量：处理时间和植物材料条件一致"
+      },
+      {
+        "step": "4. 按方案实施，设计表格记录各浓度下生根数"
+      },
+      {
+        "step": "5. 以浓度为横坐标、根数为纵坐标绘制曲线"
+      },
+      {
+        "step": "6. 确定最适浓度范围并撰写报告"
+      }
+    ],
+    "data_recording": "表格记录不同浓度处理下插条的生根数；绘制浓度-效果折线图。",
+    "independent_var": "1个（生长素类调节剂浓度）",
+    "dependent_var": "1个 定量（插条生根数）",
+    "control_group": "无（教材未明确，理论上应设蒸馏水对照）",
+    "inquiry_skills": [
+      "生长素类调节剂溶液浓度梯度配制",
+      "泡浸法或沾蘸法处理插条",
+      "无关变量控制",
+      "扦插繁殖操作"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "Guided",
+      "experiment_design": "Guided",
+      "data_analysis": "Structured",
+      "conclusion": "Open"
+    },
+    "cautions": [],
+    "notes": "方案由学生小组自主设计，结论为开放性填写；最终需写实验报告与他组交流。"
+  },
+  {
+    "id": "bio-se1-03",
+    "name": "尝试利用乙烯利催熟水果",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修1",
+    "source": {
+      "textbook": "人教版高中生物选择性必修1",
+      "chapter": "5.3",
+      "pages": [
+        103,
+        104
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "探究乙烯利催熟水果的效果，尝试利用植物生长调节剂解决农业生产实际问题。",
+    "type": "工程/制作",
+    "inquiry_method": "小组自主确定方案，施用乙烯利处理水果并观察催熟效果。",
+    "equipment": [
+      "防护手套",
+      "防护面具"
+    ],
+    "materials": [
+      "乙烯利（工业液体；pH<3.5时稳定）",
+      "小组自选水果"
+    ],
+    "functional_components": "乙烯利（催熟处理）",
+    "steps": [
+      {
+        "step": "1. 小组讨论确定实验材料（水果种类）"
+      },
+      {
+        "step": "2. 小组设计实验方案"
+      },
+      {
+        "step": "3. 实施方案并观察记录"
+      },
+      {
+        "step": "4. 完成探究报告"
+      }
+    ],
+    "data_recording": "由小组自行确定观察与记录方式。",
+    "independent_var": "1个（乙烯利处理，有/无）",
+    "dependent_var": "1个 定性（水果成熟状态，由小组定检测指标）",
+    "control_group": "无（建议设未处理对照）",
+    "inquiry_skills": [
+      "乙烯利的配制与施用",
+      "通风环境下的化学操作",
+      "防护装备的规范使用"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "Open",
+      "experiment_design": "Open",
+      "data_analysis": "Open",
+      "conclusion": "Open"
+    },
+    "cautions": [
+      "乙烯利对皮肤和黏膜有刺激性，操作须做好防护",
+      "必须在通风良好环境中操作",
+      "乙烯利遇明火可燃，注意防火"
+    ],
+    "notes": "实验方案完全由学生自主设计，开放度最高。"
+  },
+  {
+    "id": "bio-se2-01",
+    "name": "调查草地中某种双子叶植物的种群密度",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修2",
+    "source": {
+      "textbook": "人教版高中生物选择性必修2",
+      "chapter": "1.1",
+      "pages": [
+        5
+      ],
+      "section_type": "探究·实践"
+    },
+    "purpose": "学习用样方法调查草地中某种双子叶植物的种群密度，理解随机取样的必要性。",
+    "type": "观察/探索",
+    "inquiry_method": "样方法（五点取样法或等距取样法，样方大小一般1 m²）",
+    "equipment": [],
+    "materials": [
+      "草地样地（调查对象所在地块）",
+      "记录本"
+    ],
+    "functional_components": "无实验装置；核心操作为划定样方并在其中计数植物个体",
+    "steps": [
+      {
+        "step": "1. 制订计划：结合生活经验确定调查地点和范围；确定调查时间；列出需要携带的材料用具清单；讨论确定小组成员分工"
+      },
+      {
+        "step": "2. 准备：到调查地点前先大致观察地形，分析安全隐患，提出安全注意事项"
+      },
+      {
+        "step": "3. 确定调查对象：观察该地段中有哪些双子叶草本植物，记录名称，确定本小组要调查的种"
+      },
+      {
+        "step": "4. 确定样方：根据调查对象分布状况和地段形状，讨论确定样方的多少、大小和取样方法（样方大小一般以1 m²正方形为宜，种群个体数较少时可适当扩大）；采用五点取样法或等距取样法做到随机取样"
+      },
+      {
+        "step": "5. 计数：计数每个样方内所调查植物的数量，做好记录"
+      },
+      {
+        "step": "6. 计算种群密度（各样方个体总数÷样方总面积）"
+      },
+      {
+        "step": "7. 分析调查结果，得出结论，将结论写在记录本上"
+      }
+    ],
+    "data_recording": "逐样方记录植物个体数；汇总后计算种群密度（个/m²）。",
+    "independent_var": "无（调查活动，无操控变量）",
+    "dependent_var": "1个 定量（种群密度，个/m²）",
+    "control_group": "无（调查活动，无需设置对照）",
+    "inquiry_skills": [
+      "划定样方（确定样方大小与数量）",
+      "随机取样操作（五点取样法或等距取样法）",
+      "样方内植物个体计数与记录",
+      "种群密度计算（个体总数÷样方总面积）"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "N/A",
+      "experiment_design": "Guided",
+      "data_analysis": "Structured",
+      "conclusion": "Open"
+    },
+    "cautions": [
+      "调查时要做到爱护植被，不攀折花木，不破坏草坪，不毁坏庄稼，不采食野果，不伤害野生动物"
+    ],
+    "notes": "双子叶植物叶脉一般为网状脉，易于辨别个体数目；单子叶草本植物常丛生，难以辨别单株。"
+  },
+  {
+    "id": "bio-se2-02",
+    "name": "培养液中酵母菌种群数量的变化",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修2",
+    "source": {
+      "textbook": "人教版高中生物选择性必修2",
+      "chapter": "1.2",
+      "pages": [
+        11
+      ],
+      "section_type": "探究·实践"
+    },
+    "purpose": "探究培养液中酵母菌种群数量随时间的变化规律，理解“S”型增长曲线的形成。",
+    "type": "观察/探索",
+    "inquiry_method": "抽样检测法（血细胞计数板显微镜计数），连续7天跟踪观察。",
+    "equipment": [
+      "试管",
+      "血细胞计数板",
+      "显微镜（数码显微镜）",
+      "吸管",
+      "盖玻片"
+    ],
+    "materials": [
+      "酵母菌",
+      "无菌马铃薯培养液或肉汤培养液"
+    ],
+    "functional_components": "血细胞计数板（计数室面积已知，盖玻片下液层厚度0.1 mm）配合显微镜定量估算酵母菌数量；试管用于培养酵母菌",
+    "steps": [
+      {
+        "step": "1. 通过显微镜观察，估算出10 mL培养液中酵母菌的初始数量（N₀）：将盖玻片放在血细胞计数板计数室上，用吸管吸取培养液滴于盖玻片边缘，让培养液自行渗入，多余液体用滤纸吸去，稍待片刻使酵母菌全部沉降到计数室底部，将计数板放在载物台中央计数一个小方格内的酵母菌数量，以此估算试管中酵母菌总数"
+      },
+      {
+        "step": "2. 连续观察7天，分别记录这7天的数值"
+      },
+      {
+        "step": "3. 将所得数据用曲线图表示出来"
+      },
+      {
+        "step": "4. 向全班汇报本小组7天的数据，计算每天全班各组数据的平均值，根据平均值重新绘制酵母菌种群数量增长曲线"
+      },
+      {
+        "step": "5. 将全班平均值曲线与本小组曲线进行比较，分析其相似程度，作出合理解释"
+      },
+      {
+        "step": "6. 思考讨论：是否需要对照组？是否需要做重复实验？如何设计记录表格？"
+      }
+    ],
+    "data_recording": "每天记录培养液中酵母菌数量；将7天数据用曲线图表示；汇总全班各组数据计算每天平均值后重新绘图。",
+    "independent_var": "1个（培养时间，0~7 d）",
+    "dependent_var": "1个 定量（10 mL培养液中酵母菌种群数量，个）",
+    "control_group": "由学生讨论决定是否需要设置对照组（书中为开放性讨论）",
+    "inquiry_skills": [
+      "取样前振荡试管使酵母菌分布均匀",
+      "血细胞计数板规范使用（盖玻片→滴液渗入→吸去多余液体→静置沉降）",
+      "压线酵母菌的计数规则（只计压在相邻两条边上的个体）",
+      "用曲线图表示种群数量随时间变化",
+      "多组数据取平均值并重新绘图"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "Guided",
+      "experiment_design": "Structured",
+      "data_analysis": "Structured",
+      "conclusion": "Open"
+    },
+    "cautions": [
+      "从试管中吸出培养液进行计数前，需将试管振荡几次，使酵母菌分布均匀",
+      "盖玻片下的培养液厚度为0.1 mm（由血细胞计数板结构决定）",
+      "如果一个小方格内酵母菌过多，难以数清，应采取稀释措施",
+      "对于压在小方格界线上的酵母菌，应计压在两条相邻界线上的酵母菌数"
+    ],
+    "notes": "本探究需要每天取样计数，持续7天，需提前有计划地安排观察时间。"
+  },
+  {
+    "id": "bio-se2-03",
+    "name": "研究土壤中小动物类群的丰富度",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修2",
+    "source": {
+      "textbook": "人教版高中生物选择性必修2",
+      "chapter": "2.1",
+      "pages": [
+        30,
+        31
+      ],
+      "section_type": "探究·实践"
+    },
+    "purpose": "通过取样器取样调查，研究土壤中小动物类群的丰富度，推测某一区域内土壤动物的物种数目。",
+    "type": "观察/探索",
+    "inquiry_method": "取样器取样法（定量采集）；辅以诱虫器（Tullgren装置）或吸虫器采集。",
+    "equipment": [
+      "取样器（用直径5 cm硬质金属饮料罐在距顶端5 cm处剪断制成，容积约100 mL）",
+      "诱虫器（铁架台、无底花盆、金属网、电灯40~60 W、漏斗、试管）",
+      "吸虫器",
+      "放大镜",
+      "体视显微镜（或普通光学显微镜4倍物镜+5倍目镜）",
+      "镊子（包裹纱布）",
+      "铲子",
+      "解剖针",
+      "瓷盆"
+    ],
+    "materials": [
+      "土壤样品（取地表5 cm处）",
+      "塑料袋（标明取样地点和时间）",
+      "体积分数70%酒精溶液（保存小动物）",
+      "动物图鉴（鉴别和分类用）"
+    ],
+    "functional_components": "诱虫器利用电灯热量和光照使土壤动物向下运动落入收集试管；取样罐用于定量采集已知体积的土壤；吸虫器用于采集较小动物",
+    "steps": [
+      {
+        "step": "1. 根据自己的兴趣和可行性，经小组讨论后确定研究问题（如受人类活动影响程度不同的土壤、不同时间或不同土层深度的小动物丰富度比较等）"
+      },
+      {
+        "step": "2. 制订研究计划：用列表方法制订研究计划（含参数、时间、地点、内容、方法、备注）"
+      },
+      {
+        "step": "3. 准备：制作取样器（选择直径5 cm硬质金属饮料罐在距顶端5 cm处剪断，容积约100 mL）；记录调查地点的地形和环境主要情况；提出安全注意事项"
+      },
+      {
+        "step": "4. 取样：选择取样地点，将表层土上的落叶轻轻拨开，用手来回旋转罐子将其按入土中，按压到罐底与地表几乎齐平，用铲子将罐内土壤连同罐子一起挖出；将罐中土壤倒入塑料袋中，塑料袋上标明取样地点和时间等"
+      },
+      {
+        "step": "5. 采集小动物（诱虫器法）：在去底花盆中放一个金属网，将土壤样品放在金属网上（土壤与花盆壁间留空隙），将花盆放置在诱虫器上打开电灯，驱使小动物向下落入收集试管"
+      },
+      {
+        "step": "6. 采集小动物（简易法）：将土样品放在瓷盆内，用解剖针拨找小动物，同时用放大镜观察，用包裹纱布的镊子取出体型较大的，用吸虫器采集较小的；采集到的小动物放入体积分数70%酒精溶液中或放入试管中"
+      },
+      {
+        "step": "7. 观察和分类：借助动物图鉴查清小动物的名称并进行分类；如无法知道名称，可记为\"待鉴定×××\"并记录其特征；用普通光学显微镜（4倍物镜+5倍目镜）辅助观察"
+      },
+      {
+        "step": "8. 统计和分析：根据丰富度统计方法（记名计算法或目测估计法），设计数据统计表，分析数据，完成研究报告"
+      }
+    ],
+    "data_recording": "设计数据统计表，记录各小动物名称（或特征描述）及数量；运用记名计算法（直接数各种群个体数）或目测估计法（非常多/多/较多/较少/少/很少）统计丰富度。",
+    "independent_var": "1个（土壤样本来源：受人类活动影响程度/取样时间/土层深度等，由学生根据研究问题选择）",
+    "dependent_var": "1个 定性（土壤小动物类群丰富度：物种种数和相对数量）",
+    "control_group": "根据研究问题而定（如比较不同环境下丰富度时设置对照样本）",
+    "inquiry_skills": [
+      "取样器取样（按入土中到罐底与地表齐平，定量采集约100 mL土壤）",
+      "诱虫器采集（利用灯光热量驱赶小动物向下落入收集管）",
+      "吸虫器采集体型较小的土壤动物",
+      "借助动物图鉴进行动物分类鉴定",
+      "记名计算法统计物种数目",
+      "目测估计法（非常多/多/较多/较少/少/很少）统计相对数量"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "N/A",
+      "experiment_design": "Structured",
+      "data_analysis": "Structured",
+      "conclusion": "Open"
+    },
+    "cautions": [
+      "取样器（饮料罐）断口处很锋利，操作时要注意安全",
+      "取样时尽量不要破坏环境，并应事先取得有关部门的同意",
+      "塑料袋上应标明取样地点和时间等信息"
+    ],
+    "notes": "土壤动物身体微小、活动能力强，不适合用样方法，应用取样器取样法；观察时最好用体视显微镜，也可用普通光学显微镜（4倍物镜+5倍目镜）。"
+  },
+  {
+    "id": "bio-se2-04",
+    "name": "调查当地某生态系统中的能量流动情况",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修2",
+    "source": {
+      "textbook": "人教版高中生物选择性必修2",
+      "chapter": "3.2",
+      "pages": [
+        59
+      ],
+      "section_type": "探究·实践"
+    },
+    "purpose": "选择身边的一个生态系统，调查其能量流动情况，分析评价，并对其提出能量流动方面的改进建议。",
+    "type": "观察/探索",
+    "inquiry_method": "访谈与实地调查（访问亲友、电话调查、收集书籍报刊、走访农业部门）",
+    "equipment": [],
+    "materials": [
+      "当地农田生态系统（或其他生态系统，如森林、湿地、池塘、校园等）",
+      "书籍、报刊、互联网资料"
+    ],
+    "functional_components": "无实验装置；核心为访谈农民/专家并整理信息以描绘食物链与食物网",
+    "steps": [
+      {
+        "step": "1. 选择身边的一个生态系统（如农田、森林、湿地、池塘、校园等）"
+      },
+      {
+        "step": "2. 制订计划，明确目标和分工（农村同学进行实地调查，城市同学可通过访问亲友、电话调查、收集书籍报刊、走访农业部门等方式进行调查）"
+      },
+      {
+        "step": "3. 重点了解：生产者的主体是什么及农民怎样抑制其他生产者；初级消费者有哪些（哪些对农业生产有益，哪些有害）以及农民采取的措施；次级消费者有哪些及与农作物的关系；养殖动物的饲料来源；农民对作物秸秆的处理方式；提高光能利用效率的方法"
+      },
+      {
+        "step": "4. 撰写调查报告：整理调查结果，尽可能详尽描绘出该生态系统的食物链和食物网，并提出能量流动方面的改进建议"
+      },
+      {
+        "step": "5. 就调查报告的主要内容与农民进行交流，了解农民的态度，根据交流情况对调查报告做进一步修改"
+      }
+    ],
+    "data_recording": "撰写调查分析报告，绘制食物链和食物网图，提出能量流动改进建议。",
+    "independent_var": "无（调查活动）",
+    "dependent_var": "N/A（定性，能量流动情况描述）",
+    "control_group": "无（调查活动）",
+    "inquiry_skills": [
+      "访谈调查（农民、专家、亲友）",
+      "资料搜集与整理（书籍、报刊、互联网）",
+      "食物链和食物网识别与绘制",
+      "能量流动分析与评价",
+      "调查报告撰写与交流表达"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Structured",
+      "data_analysis": "Guided",
+      "conclusion": "Open"
+    },
+    "cautions": [],
+    "notes": "农村同学进行实地调查，城市同学可通过多种渠道间接调查；强调与农民交流后根据反馈修改报告。"
+  },
+  {
+    "id": "bio-se2-05",
+    "name": "探究土壤微生物的分解作用",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修2",
+    "source": {
+      "textbook": "人教版高中生物选择性必修2",
+      "chapter": "3.3",
+      "pages": [
+        65,
+        66
+      ],
+      "section_type": "探究·实践"
+    },
+    "purpose": "探究土壤微生物对有机物（落叶或淀粉）是否具有分解作用，理解微生物在物质循环中的功能。",
+    "type": "调参/验证",
+    "inquiry_method": "设置对照实验（含微生物的土壤浸出液组 vs 蒸馏水对照组），以颜色反应检测淀粉是否被分解。",
+    "equipment": [
+      "烧杯（4个，编号A、B）",
+      "试管（4支，编号A1、A2、B1、B2）",
+      "玻璃棒",
+      "纱布",
+      "铁架台",
+      "酒精灯（斐林试剂检测时加热用）",
+      "恒温箱（60℃，参考案例1中用于处理实验组土壤以排除微生物）"
+    ],
+    "materials": [
+      "农田/林地/花盆处的土壤",
+      "蒸馏水",
+      "淀粉糊（等量）",
+      "碘液",
+      "斐林试剂",
+      "带有落叶的土壤和塑料袋（参考案例1）"
+    ],
+    "functional_components": "A组烧杯含土壤浸出液（含微生物）加淀粉糊，B组烧杯含蒸馏水（排除微生物）加淀粉糊；碘液检测淀粉是否存在（蓝色=淀粉未分解），斐林试剂检测还原糖是否产生（加热后出现砖红色沉淀=淀粉已分解为还原糖）",
+    "steps": [
+      {
+        "step": "1. 将农田、林地或花盆处的土壤放入里面垫有厚纱布的烧杯中，加水搅拌，然后将纱布连同土壤一起取出；将留在烧杯中的土壤浸出液静置一段时间备用"
+      },
+      {
+        "step": "2. 另取两个烧杯编号为A、B，放入等量淀粉糊；A烧杯中加入30 mL土壤浸出液，B烧杯中加入30 mL蒸馏水"
+      },
+      {
+        "step": "3. 在室温（20℃左右）环境放置7 d"
+      },
+      {
+        "step": "4. 分别取A、B烧杯中的溶液各20 mL，各放入两支试管中，分别编号A1、A2、B1、B2"
+      },
+      {
+        "step": "5. 在A1、B1中加入碘液；在A2、B2中加入斐林试剂并加热"
+      },
+      {
+        "step": "6. 观察试管中溶液的颜色变化，记录实验结果"
+      },
+      {
+        "step": "7. 通过小组讨论确定本小组的实验方案（可参照两个参考案例，也可自行设计）"
+      },
+      {
+        "step": "8. 进行实验：控制变量，让实验组和对照组自变量以外的条件保持一致；分析结果，得出结论"
+      }
+    ],
+    "data_recording": "观察并记录各试管中溶液的颜色变化（碘液：蓝色/不变蓝；斐林试剂：砖红色/无变化）。",
+    "independent_var": "1个（土壤是否含有微生物：实验组为土壤浸出液，对照组为蒸馏水）",
+    "dependent_var": "1个 定性（淀粉是否被分解：通过碘液和斐林试剂的颜色反应判断）",
+    "control_group": "有 B组烧杯（蒸馏水代替土壤浸出液，排除微生物影响）",
+    "inquiry_skills": [
+      "土壤浸出液的制备（纱布过滤）",
+      "设置对照实验（实验组含微生物浸出液，对照组用蒸馏水）",
+      "碘液检测淀粉（蓝色=淀粉存在）",
+      "斐林试剂检测还原糖（加热后砖红色沉淀=淀粉水解为还原糖）",
+      "变量控制（除自变量外其他条件保持一致）"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "Guided",
+      "experiment_design": "Structured",
+      "data_analysis": "Confirmation",
+      "conclusion": "Confirmation"
+    },
+    "cautions": [
+      "实验过程中注意控制变量，让实验组和对照组自变量以外的条件保持一致",
+      "本实验可能需要几天甚至几周以上才能出结果，应有计划地安排观察和记录"
+    ],
+    "notes": "书中给出两个参考案例（落叶腐烂案例和淀粉分解案例），学生参考后确定本小组实验方案；实验最好在实验室进行以便更好地控制变量。"
+  },
+  {
+    "id": "bio-se2-06",
+    "name": "设计制作生态缸，观察其稳定性",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修2",
+    "source": {
+      "textbook": "人教版高中生物选择性必修2",
+      "chapter": "3.4",
+      "pages": [
+        78
+      ],
+      "section_type": "探究·实践"
+    },
+    "purpose": "设计并制作一个生态缸，观察这一人工微生态系统的稳定性，理解生态系统的组成和自我调节能力。",
+    "type": "工程/制作",
+    "inquiry_method": "设计制作人工微生态系统，长期定期观察记录生物种类及数量变化。",
+    "equipment": [
+      "1 cm厚的玻璃板（4~5 m²）",
+      "粘胶（足量）",
+      "铲子"
+    ],
+    "materials": [
+      "石块",
+      "颗粒较细的沙土",
+      "含腐殖质较多的土壤",
+      "鹅卵石",
+      "有孔假山石",
+      "自来水",
+      "苔藓、铁线蕨、鸭跖草、马蹄莲、罗汉松、翠云草等陆生植物",
+      "黑藻、金鱼藻、浮萍、珍珠草等水生植物",
+      "鼠妇、蚯蚓、地螺、蛆蛇、蜗牛等陆生小动物",
+      "虾、小鱼、小乌龟等水生动物"
+    ],
+    "functional_components": "密封的人工微生态系统，包含生产者（植物）、消费者（动物）、分解者（随土壤带入的微生物）及非生物成分（水、土壤、石块）；系统内各组成成分及营养级之间需保持合适比例",
+    "steps": [
+      {
+        "step": "1. 在实验之前应先设计观察记录表"
+      },
+      {
+        "step": "2. 用玻璃板和粘胶制作生态缸的框架"
+      },
+      {
+        "step": "3. 在生态缸内部一侧铺垫几块石块作为基垫，再铺一层颗粒较细的沙土（厚度5~15 cm），在沙土上铺一层含腐殖质较多的土壤（厚度5~10 cm），整体铺垫成坡状"
+      },
+      {
+        "step": "4. 在土坡上放几块有孔的假山石，可作为小动物栖息的场所"
+      },
+      {
+        "step": "5. 向缸内倒入自来水，水位高5~10 cm，在水中放几块鹅卵石"
+      },
+      {
+        "step": "6. 在土坡上种植苔藓、铁线蕨、鸭跖草、马蹄莲、罗汉松、翠云草等，放入鼠妇、蚯蚓、地螺、蛆蛇、蜗牛等小动物；在水中放入浮萍、金鱼藻等水生植物及虾、小鱼、小乌龟等小动物"
+      },
+      {
+        "step": "7. 封上生态缸盖，将生态缸置于室内通风、光线良好的地方，避免阳光直接照射"
+      },
+      {
+        "step": "8. 每个星期至少观察一次生态缸内生物种类及数量的变化，并进行记录"
+      }
+    ],
+    "data_recording": "按预先设计的观察记录表，每周至少记录一次生态缸内生物种类及数量变化，持续观察至生物大量死亡或趋于稳定。",
+    "independent_var": "无（单组观察，无操控变量；也可对比不同设计方案的生态缸）",
+    "dependent_var": "1个 定性（生态缸内生物种类及数量的变化，稳定性指标）",
+    "control_group": "无（单组观察；对比不同设计方案时才有对照）",
+    "inquiry_skills": [
+      "生态系统组成成分分析（生产者、消费者、分解者、非生物成分的合理配置）",
+      "生物种类选配（考虑营养关系和环境适应性）",
+      "生态缸制作（玻璃粘合、底质铺设、水陆分区）",
+      "长期定期观察与记录（每周至少一次）"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Structured",
+      "data_analysis": "Structured",
+      "conclusion": "Open"
+    },
+    "cautions": [
+      "实验之前应先设计观察记录表",
+      "生态缸应置于室内通风、光线良好的地方，要避免阳光直接照射（避免水温过高）"
+    ],
+    "notes": "也可以选择制作其他类型的生态缸；人工生态系统的稳定性是有条件的，可能是短暂的；chapter号依据教材页码和章节位置推断为3.4（生态系统的稳定性），TOC图片未二次确认。"
+  },
+  {
+    "id": "bio-se2-07",
+    "name": "调查当地的环境状况，提出保护环境的建议或行动计划",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修2",
+    "source": {
+      "textbook": "人教版高中生物选择性必修2",
+      "chapter": "4.1",
+      "pages": [
+        87
+      ],
+      "section_type": "探究·实践"
+    },
+    "purpose": "调查了解家乡的环境问题，针对发现的问题提出保护环境的建议或切实可行的行动计划。",
+    "type": "观察/探索",
+    "inquiry_method": "实地调查与检测（现场观察、采样、仪器检测、查阅资料）",
+    "equipment": [
+      "空气质量检测仪（调查空气质量时使用）"
+    ],
+    "materials": [
+      "当地湖泊/居民区/工厂等环境",
+      "水质检测相关试剂（条件允许时检测pH、溶解氧、总磷、总氮等）"
+    ],
+    "functional_components": "无固定实验装置；根据研究主题选用相应检测设备",
+    "steps": [
+      {
+        "step": "1. 确定要调查的环境问题（如当地湖泊水质、居民区垃圾收集及处理方式、当地空气质量、工厂污染物排放情况等）；不同小组可以分别调查不同湖泊或同一湖泊不同区域的水质情况"
+      },
+      {
+        "step": "2. 确定主题后拟订计划，确定分工，选择合适的方法"
+      },
+      {
+        "step": "3. 实施调查（水质调查：实地考察湖泊周边排污情况；条件允许时采集水样在实验室检测理化指标，如水温、pH、透明度、溶解氧、总磷和总氮等；根据检测结果，对照《中华人民共和国地表水环境质量标准》GB3838—2002进行评价；空气质量调查：利用空气质量检测仪在不同时间和地点进行监测，对数据汇总分析）"
+      },
+      {
+        "step": "4. 针对发现的问题，咨询专家或查阅资料，小组讨论后提出解决问题的建议，提交至当地生态环境管理部门，或提出一份切实可行的保护环境行动计划，在班级内交流"
+      }
+    ],
+    "data_recording": "记录水质理化指标检测数据或空气质量监测数据；对照国家标准进行评价；撰写调查报告或行动计划。",
+    "independent_var": "无（调查活动）",
+    "dependent_var": "N/A（定性/定量，水温、pH、透明度、溶解氧、总磷、总氮等；空气质量指数等）",
+    "control_group": "无（调查活动）",
+    "inquiry_skills": [
+      "环境问题识别与调查主题选定",
+      "实地采集水样（选取具有代表性的地点）",
+      "水质理化指标检测（pH、透明度、溶解氧、总磷、总氮等）",
+      "对照国家标准评价水质（参照GB3838—2002）",
+      "空气质量检测仪使用与数据汇总分析",
+      "调查报告撰写与环保建议提出"
+    ],
+    "inquiry_openness": {
+      "question": "Guided",
+      "hypothesis": "N/A",
+      "experiment_design": "Guided",
+      "data_analysis": "Structured",
+      "conclusion": "Open"
+    },
+    "cautions": [
+      "不同小组可以分别调查不同湖泊或同一湖泊不同区域的水质，注意比较分析"
+    ],
+    "notes": "鼓励将建议真正提交给当地生态环境管理部门；调查对象可灵活选择（水质、垃圾、空气质量等）。"
+  },
+  {
+    "id": "bio-se2-08",
+    "name": "搜集保护生物多样性的实例",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修2",
+    "source": {
+      "textbook": "人教版高中生物选择性必修2",
+      "chapter": "4.2",
+      "pages": [
+        94
+      ],
+      "section_type": "探究·实践"
+    },
+    "purpose": "通过搜集和分析保护生物多样性的实例，调查当地生物多样性的现状，探讨生物多样性丧失可能对人类产生的影响。",
+    "type": "观察/探索",
+    "inquiry_method": "资料搜集与分析；实地调查与访谈。",
+    "equipment": [],
+    "materials": [
+      "报纸、书籍、电视资料",
+      "互联网（搜集保护生物多样性实例、查询当地生物多样性调查研究结果）"
+    ],
+    "functional_components": "无实验装置；核心为系统搜集多渠道资料并整合分析",
+    "steps": [
+      {
+        "step": "1. 组成调查小组，利用报刊、书籍、电视、互联网等搜集保护生物多样性的实例，对资料进行整理，与小组其他同学交流"
+      },
+      {
+        "step": "2. 调查当地生物多样性状况：通过图书馆或互联网查询当地生物多样性调查研究结果；拜访当地从事生态学研究的专业人员；走访当地的老人，请他们提供几十年来当地物种、生态系统演变的情况"
+      },
+      {
+        "step": "3. 就以下问题进行小组讨论：当地是否出现生物多样性下降的趋势及其影响；全球生物多样性下降对人类的影响；人类已采取的保护措施是否起到显著作用"
+      },
+      {
+        "step": "4. 根据讨论结果，提出保护当地生物多样性的建议"
+      }
+    ],
+    "data_recording": "整理搜集到的资料（实例列表）；记录调查结果和访谈信息；以小组汇报方式交流。",
+    "independent_var": "无（调查活动）",
+    "dependent_var": "N/A（定性，当地生物多样性现状：物种变化趋势、生态系统演变）",
+    "control_group": "无（调查活动）",
+    "inquiry_skills": [
+      "多渠道资料搜集与整理（报刊、书籍、电视、互联网）",
+      "数据库检索与文献查阅（图书馆/互联网查询调查研究结果）",
+      "访谈专家与老人（获取长期历史变化信息）",
+      "小组讨论与观点交流"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Open"
+    },
+    "cautions": [],
+    "notes": "强调多渠道获取信息（网络、图书馆、实地、访谈），并结合当地实际提出具体建议。"
+  },
+  {
+    "id": "bio-se3-01",
+    "name": "制作传统发酵食品",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修3",
+    "source": {
+      "textbook": "人教版高中生物选择性必修3",
+      "chapter": "1.1",
+      "pages": [
+        6,
+        7,
+        8
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "利用植物体表面天然乳酸菌制作泡菜，利用水果表面野生酵母菌及醋酸菌制作果酒和果醋，体验传统发酵技术的原理与操作",
+    "type": "工程/制作",
+    "inquiry_method": "利用自然存在的乳酸菌、酵母菌和醋酸菌，分别在无氧或有氧条件下进行发酵，制作传统发酵食品并评价成品品质",
+    "equipment": [
+      "泡菜坛或其他密封性良好的罐子",
+      "发酵瓶",
+      "纱布",
+      "榨汁机",
+      "量杯"
+    ],
+    "materials": [
+      "食盐",
+      "清水",
+      "新鲜蔬菜（萝卜、黄瓜、豇豆等）",
+      "蒜瓣、生姜及其他香辛料",
+      "新鲜水果（葡萄、苹果、山楂、龙眼等）",
+      "体积分数为70%的酒精"
+    ],
+    "functional_components": "泡菜坛水槽密封（维持厌氧环境）；发酵瓶（无氧发酵果酒）；纱布盖口（有氧发酵果醋）",
+    "steps": [
+      {
+        "step": "【制作泡菜】1. 配制质量百分比为5%～20%的盐水，煮沸冷却"
+      },
+      {
+        "step": "【制作泡菜】2. 蔬菜洗净晾干后装坛，放入香辛料，盐水淹过菜料，盖好坛盖"
+      },
+      {
+        "step": "【制作泡菜】3. 向坛盖水槽注满水，发酵过程中持续补水维持密封"
+      },
+      {
+        "step": "【制作果酒和果醋】1. 用洗涤剂清洗器具后，70%酒精消毒晾干"
+      },
+      {
+        "step": "【制作果酒和果醋】2. 葡萄冲洗1～2次，去枝梗和腐烂籽粒，沥干榨汁"
+      },
+      {
+        "step": "【制作果酒和果醋】3. 葡萄汁装入发酵瓶（留1/3空间），盖好瓶盖"
+      },
+      {
+        "step": "【制作果酒和果醋】4. 18～30℃发酵10～12 d，每隔12 h打松瓶盖排气后拧紧，取样监测"
+      },
+      {
+        "step": "【制作果酒和果醋】5. 果酒完成后打开瓶盖盖纱布，30～35℃有氧发酵7～8 d制成果醋"
+      }
+    ],
+    "data_recording": "观察泡菜口味和品质；取样监测果酒发酵进度；品尝评价果酒和果醋口味",
+    "independent_var": "无（自然发酵，未设置对照自变量）",
+    "dependent_var": "无（以成品品质为评价指标）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "密封腌制操作（水槽密封法维持厌氧）",
+      "盐水配制与煮沸处理",
+      "酒精消毒器具",
+      "果汁榨取与装瓶操作",
+      "取样监测发酵进度"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "泡菜坛要保持密封，向水槽中补充水以维持厌氧环境",
+      "制作果酒时瓶中留约1/3空间；每隔12 h打松瓶盖排气，不要完全打开",
+      "果醋发酵时需打开瓶盖通入空气"
+    ],
+    "notes": "含'进一步探究'：可设计实验跟踪检测泡菜中亚硝酸盐含量的变化，探究腌制方法、时间长短和温度高低等条件对亚硝酸盐含量的影响"
+  },
+  {
+    "id": "bio-se3-02",
+    "name": "酵母菌的纯培养",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修3",
+    "source": {
+      "textbook": "人教版高中生物选择性必修3",
+      "chapter": "1.2",
+      "pages": [
+        12,
+        13
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "学会配制培养酵母菌的培养基并倒平板；学会进行无菌操作；尝试通过平板划线操作来获得纯化的酵母菌落",
+    "type": "技能训练",
+    "inquiry_method": "配制马铃薯琼脂培养基，经高压蒸汽灭菌后倒平板，采用平板划线法将酵母菌液接种于固体培养基上，恒温培养后获得单菌落",
+    "equipment": [
+      "天平",
+      "小刀",
+      "纱布",
+      "烧杯",
+      "锥形瓶",
+      "棉塞",
+      "牛皮纸（或报纸）",
+      "皮筋",
+      "培养皿",
+      "接种环",
+      "酒精灯",
+      "超净工作台",
+      "高压蒸汽灭菌锅",
+      "干热灭菌箱",
+      "恒温培养箱"
+    ],
+    "materials": [
+      "酵母菌培养液",
+      "马铃薯（去皮，200 g）",
+      "葡萄糖（或蔗糖，20 g）",
+      "琼脂（15～20 g）",
+      "蒸馏水"
+    ],
+    "functional_components": "高压蒸汽灭菌锅（培养基灭菌）；干热灭菌箱（培养皿灭菌）；酒精灯（无菌操作区域）；接种环（平板划线）",
+    "steps": [
+      {
+        "step": "1. 配制马铃薯琼脂培养基：马铃薯200 g煮软过滤，加葡萄糖20 g、琼脂15～20 g，定容至1000 mL"
+      },
+      {
+        "step": "2. 灭菌：培养基用高压蒸汽灭菌锅（100 kPa、121℃、15～30 min）灭菌；培养皿用干热灭菌箱（160～170℃、2 h）灭菌"
+      },
+      {
+        "step": "3. 倒平板：培养基冷却至50℃左右时，在酒精灯旁倒入培养皿，冷却凝固后倒置放置"
+      },
+      {
+        "step": "4. 平板划线法接种：灼烧接种环至红热，冷却后蘸取菌液，在培养基表面划3～5条平行线；灼烧后从末端开始作第二次划线，重复至第四、五次（最后一次勿与第一次相连）"
+      },
+      {
+        "step": "5. 培养：将接种后的平板和一个未接种的空白对照平板倒置，28℃恒温培养24～48 h"
+      }
+    ],
+    "data_recording": "观察未接种平板是否染菌；观察接种平板是否出现单菌落；记录菌落颜色、形状和大小",
+    "independent_var": "无",
+    "dependent_var": "无",
+    "control_group": "一个未接种的空白平板（检验无菌操作是否成功）",
+    "inquiry_skills": [
+      "配制马铃薯琼脂培养基",
+      "高压蒸汽灭菌（灭菌锅操作）",
+      "干热灭菌（干热灭菌箱操作）",
+      "倒平板操作",
+      "平板划线法接种"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "在实验室中不可吃东西、喝水，离开实验室时一定要洗手",
+      "使用后的培养基在丢弃前一定要进行灭菌处理，以免污染环境",
+      "划线时最后一次的划线不与第一次相连"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "bio-se3-03",
+    "name": "土壤中分解尿素的细菌的分离与计数",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修3",
+    "source": {
+      "textbook": "人教版高中生物选择性必修3",
+      "chapter": "1.2",
+      "pages": [
+        18,
+        19
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "从土壤中分离能分解尿素的细菌，并统计每克土壤样品中分解尿素细菌的菌落数",
+    "type": "观察/探索",
+    "inquiry_method": "以尿素为唯一氮源的选择培养基筛选分解尿素的细菌，用稀释涂布平板法接种不同稀释度的土壤样品，恒温培养后统计菌落数并估算含菌量",
+    "equipment": [
+      "培养皿",
+      "涂布器",
+      "酒精灯",
+      "接种环",
+      "铁铲",
+      "取样纸袋",
+      "试管",
+      "微量移液器（或移液管）",
+      "恒温培养箱",
+      "高压蒸汽灭菌锅"
+    ],
+    "materials": [
+      "土壤样品（酸碱度接近中性的潮湿土壤，距地表3～8 cm土层）",
+      "以尿素为唯一氮源的选择培养基",
+      "无菌水"
+    ],
+    "functional_components": "选择培养基（以尿素为唯一氮源，筛选具有脲酶的细菌）；高压蒸汽灭菌锅（培养基及器具灭菌）",
+    "steps": [
+      {
+        "step": "1. 土壤取样：铲去表层土，取距地表3～8 cm的土壤，装入无菌取样纸袋"
+      },
+      {
+        "step": "2. 样品稀释：称取1 g土壤，加9 mL无菌水配成10⁻¹稀释液；依次10倍梯度稀释至10⁻⁴、10⁻⁵、10⁻⁶"
+      },
+      {
+        "step": "3. 稀释涂布平板法接种：各稀释度取0.1 mL菌液，分别涂布于选择培养基平板（每个稀释度≥3个平行平板）"
+      },
+      {
+        "step": "4. 恒温培养：平板倒置，37℃培养1～2 d，每隔24 h统计一次菌落数，取稳定值"
+      },
+      {
+        "step": "5. 菌落计数：选菌落数为30～300的平板计数，计算每克土壤中分解尿素细菌的菌落数"
+      }
+    ],
+    "data_recording": "以表格形式记录不同菌落的特征（形状、大小和颜色等）；记录各稀释度、各平板的菌落数；计算每克土壤含菌数",
+    "independent_var": "土壤样品的稀释度（10⁻⁴、10⁻⁵、10⁻⁶）",
+    "dependent_var": "每克土壤中能分解尿素的细菌的菌落数（定量）",
+    "control_group": "未接种的空白培养基平板（判断培养基是否染菌、选择培养基是否有效）",
+    "inquiry_skills": [
+      "土壤样品的梯度稀释（10倍系列稀释）",
+      "稀释涂布平板法接种",
+      "配制以尿素为唯一氮源的选择培养基",
+      "菌落计数（选30～300菌落数的平板）",
+      "无菌取样操作（铁铲和取样纸袋使用前灭菌）"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "Structured",
+      "experiment_design": "Guided",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "涂布器从酒精中取出后，让多余酒精在烧杯中滴尽，再在火焰上灼烧，不要将过热涂布器放入酒精中",
+      "无菌操作：取样铁铲和取样纸袋使用前均需灭菌，操作后一定要洗手",
+      "本实验耗时较长，需事先规划时间",
+      "培养皿要做好标记（组别、培养日期和稀释度等）"
+    ],
+    "notes": "含'进一步探究'：可查阅资料，进一步设计实验来鉴定自己分离的菌种（需借助生物化学方法）"
+  },
+  {
+    "id": "bio-se3-04",
+    "name": "菊花的组织培养",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修3",
+    "source": {
+      "textbook": "人教版高中生物选择性必修3",
+      "chapter": "2.1",
+      "pages": [
+        35,
+        36
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "了解植物组织培养的基本原理；了解生长素和细胞分裂素的浓度比例对菊花愈伤组织形成和分化的影响；尝试进行植物组织培养",
+    "type": "技能训练",
+    "inquiry_method": "将幼嫩菊花茎段经酒精和次氯酸钠消毒后，接种于含适当激素比例的诱导培养基中，在超净工作台上严格无菌操作，培养形成愈伤组织后再转入分化培养基诱导生芽和生根",
+    "equipment": [
+      "50 mL锥形瓶（或植物组织培养瓶）",
+      "烧杯",
+      "酒精灯",
+      "超净工作台（或接种箱）",
+      "高压蒸汽灭菌锅",
+      "培养箱",
+      "封口膜",
+      "滤纸",
+      "标签",
+      "消毒用酒精棉球",
+      "培养皿",
+      "解剖刀",
+      "镊子"
+    ],
+    "materials": [
+      "幼嫩的菊花茎段（外植体）",
+      "诱导愈伤组织培养基和分化培养基（参见书附录1）",
+      "体积分数为70%的酒精",
+      "质量分数为5%左右的次氯酸钠溶液",
+      "无菌水"
+    ],
+    "functional_components": "生长素和细胞分裂素（比例决定细胞发育方向：高比值促进生根，低比值促进生芽）；超净工作台（维持无菌操作环境）",
+    "steps": [
+      {
+        "step": "1. 外植体消毒：用酒精擦拭双手和超净工作台台面；流水冲洗外植体后，酒精消毒30 s，无菌水清洗2～3次；再用次氯酸钠溶液处理30 min，无菌水清洗2～3次"
+      },
+      {
+        "step": "2. 切割外植体：置于无菌培养皿中，用无菌滤纸吸去水分，解剖刀切成0.5～1 cm长小段"
+      },
+      {
+        "step": "3. 接种：在酒精灯旁将外植体1/3～1/2插入诱导培养基中，封口，做好标记；后续转入分化培养基诱导生芽、生根"
+      }
+    ],
+    "data_recording": "接种3～4 d后检查：统计被污染外植体数量；记录外植体从接种到长出愈伤组织的天数；观察愈伤组织能否进一步分化出芽和根",
+    "independent_var": "生长素和细胞分裂素的浓度及其比例",
+    "dependent_var": "愈伤组织的形成及其分化方向（生芽/生根）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "酒精和次氯酸钠溶液处理外植体（表面消毒）",
+      "超净工作台无菌操作",
+      "外植体切割与接种",
+      "植物组织培养基的配制与灭菌"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "实验中使用的培养基和所有器械都要灭菌，接种操作必须在酒精灯火焰旁进行",
+      "接种时注意外植体的方向，不要倒插",
+      "诱导愈伤组织期间一般不需要光照，后续培养过程中每日需要给予适当时间和强度的光照"
+    ],
+    "notes": "各种培养基的配制参见书附录1"
+  },
+  {
+    "id": "bio-se3-05",
+    "name": "DNA的粗提取与鉴定",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修3",
+    "source": {
+      "textbook": "人教版高中生物选择性必修3",
+      "chapter": "3.1",
+      "pages": [
+        74,
+        75
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "了解DNA的物理和化学性质，理解DNA粗提取和鉴定的原理；学会DNA粗提取的方法以及用二苯胺试剂对DNA进行鉴定",
+    "type": "技能训练",
+    "inquiry_method": "利用DNA在不同浓度NaCl溶液中溶解度不同的原理，通过研磨、过滤、冷酒精沉淀等步骤粗提取洋葱DNA，再用二苯胺试剂水浴加热鉴定DNA",
+    "equipment": [
+      "研钵",
+      "烧杯",
+      "量筒",
+      "玻璃棒",
+      "纱布",
+      "漏斗",
+      "试管",
+      "试管架",
+      "试管夹",
+      "酒精灯",
+      "石棉网",
+      "三脚架",
+      "天平"
+    ],
+    "materials": [
+      "新鲜洋葱（约30 g，也可选择香蕉、菠菜、菜花和猪肝等）",
+      "研磨液（配方见书附录2）",
+      "体积分数为95%的酒精（预冷）",
+      "2 mol/L的NaCl溶液",
+      "二苯胺试剂（配方见书附录2）",
+      "蒸馏水"
+    ],
+    "functional_components": "高浓度NaCl溶液（溶解DNA）；冷酒精（沉淀DNA）；二苯胺试剂（DNA鉴定，加热后与DNA结合呈蓝色）",
+    "steps": [
+      {
+        "step": "1. 称取约30 g洋葱切碎，加10 mL研磨液充分研磨"
+      },
+      {
+        "step": "2. 纱布过滤研磨液，4℃静置几分钟后取上清液（或1500 r/min离心5 min取上清液）"
+      },
+      {
+        "step": "3. 上清液中加等体积预冷酒精（95%），静置2～3 min，用玻璃棒卷起白色丝状物（即DNA），滤纸吸干水分"
+      },
+      {
+        "step": "4. 取两支试管，各加2 mol/L NaCl溶液5 mL；一支加入DNA溶解，另一支作空白对照；各加二苯胺试剂4 mL，混匀，沸水中加热5 min，冷却后比较颜色"
+      }
+    ],
+    "data_recording": "记录是否提取出白色丝状物或沉淀物；记录二苯胺试剂鉴定后两支试管的颜色变化（含DNA的试管变蓝，对照管不变色）",
+    "independent_var": "是否含有粗提取的DNA（实验组 vs 对照组）",
+    "dependent_var": "加入二苯胺试剂后溶液的颜色变化（定性）",
+    "control_group": "不含DNA的NaCl溶液加二苯胺试剂",
+    "inquiry_skills": [
+      "研磨法破碎细胞",
+      "低温（4℃）静置/离心取上清液",
+      "冷酒精沉淀DNA",
+      "玻璃棒卷起丝状DNA",
+      "二苯胺试剂水浴加热鉴定DNA"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "提取过程中保持低温，防止DNA酶活性破坏DNA",
+      "冷酒精要提前预冷至0～4℃，提高沉淀效果"
+    ],
+    "notes": "含'进一步探究'：查阅资料了解实验室提取较高纯度DNA的方法，与本实验比较。研磨液和二苯胺试剂配方见书附录2"
+  },
+  {
+    "id": "bio-se3-06",
+    "name": "DNA片段的扩增及电泳鉴定",
+    "subject": "生物",
+    "publisher": "人教版",
+    "grade": "高中选择性必修3",
+    "source": {
+      "textbook": "人教版高中生物选择性必修3",
+      "chapter": "3.2",
+      "pages": [
+        84,
+        85
+      ],
+      "section_type": "实验·探究"
+    },
+    "purpose": "了解PCR和电泳鉴定的基本原理；尝试进行PCR的基本操作并用电泳鉴定PCR的产物",
+    "type": "技能训练",
+    "inquiry_method": "利用PCR仪对目的DNA片段进行体外扩增（变性—复性—延伸30个循环），再通过琼脂糖凝胶电泳分离不同大小的DNA片段，在紫外灯下观察核酸染料标记的DNA条带",
+    "equipment": [
+      "PCR仪",
+      "微量离心管",
+      "微量移液器",
+      "一次性吸液枪头",
+      "电泳装置（电泳仪、电泳槽等）",
+      "微波炉或水浴锅",
+      "紫外灯",
+      "照相设备"
+    ],
+    "materials": [
+      "4种脱氧核苷酸等量混合液（20 mmol/L，1 µL）",
+      "2种引物（20 µmol/L，各2.5 µL）",
+      "Taq DNA聚合酶（1～5 U/µL，1～2 U）",
+      "模板DNA（5～10 µL）",
+      "10倍浓缩扩增缓冲液（5 µL）",
+      "无菌水（28～33 µL）",
+      "琼脂糖、电泳缓冲液、凝胶载样缓冲液",
+      "核酸染料",
+      "DNA分子大小标准参照物（Marker）"
+    ],
+    "functional_components": "PCR仪（变性/复性/延伸温控循环）；Taq DNA聚合酶（耐高温，催化体外合成）；引物（特异性决定扩增片段）；琼脂糖凝胶（依据分子大小分离DNA）；紫外灯（观察核酸染料标记的条带）",
+    "steps": [
+      {
+        "step": "1. 用微量移液器依次加入各组分（总体积50 µL：10倍缓冲液5 µL、dNTPs 1 µL、引物I 2.5 µL、引物II 2.5 µL、H₂O 28～33 µL、Taq酶1～2 U、模板DNA 5～10 µL）"
+      },
+      {
+        "step": "2. 盖严离心管盖，离心10 s使反应液集中在管底"
+      },
+      {
+        "step": "3. 设置PCR循环程序（预变性94℃ 5 min；30次循环：94℃ 30 s→55℃ 30 s→72℃ 1 min），放入PCR仪运行"
+      },
+      {
+        "step": "4. 制备琼脂糖凝胶：配制0.8%～1.2%琼脂糖溶液，加热熔化，倒入模具插入梳子，凝固后拔出梳子放入电泳槽"
+      },
+      {
+        "step": "5. 加电泳缓冲液没过凝胶1 mm；PCR产物与载样缓冲液混合后注入加样孔，留一孔加Marker"
+      },
+      {
+        "step": "6. 接通电源（1～5 V/cm），待指示剂前沿接近凝胶边缘时停止；紫外灯下观察并照相"
+      }
+    ],
+    "data_recording": "记录是否成功扩增出DNA片段（是否看到预期大小的条带）；记录电泳结果中条带的数量和位置；分析是否出现非预期条带",
+    "independent_var": "无",
+    "dependent_var": "PCR扩增是否产生预期大小的DNA片段（紫外灯下条带位置，定性）",
+    "control_group": "无",
+    "inquiry_skills": [
+      "微量移液器操作",
+      "PCR仪参数设置（变性、复性、延伸的温度和时间）",
+      "琼脂糖凝胶电泳操作（制胶、加样、电泳）",
+      "紫外灯下观察核酸染料标记的DNA条带",
+      "高压蒸汽灭菌微量离心管和枪头（防止外源DNA污染）"
+    ],
+    "inquiry_openness": {
+      "question": "Confirmation",
+      "hypothesis": "N/A",
+      "experiment_design": "Confirmation",
+      "data_analysis": "Guided",
+      "conclusion": "Guided"
+    },
+    "cautions": [
+      "为避免外源DNA污染，微量离心管、枪头和蒸馏水在使用前必须高压灭菌处理",
+      "缓冲液和酶应分装成小份并在-20℃储存；使用前在冰上缓慢融化",
+      "每吸取一种试剂后必须更换枪头",
+      "操作时一定要戴好一次性手套"
+    ],
+    "notes": "相关试剂配制方法参见书附录3"
+  }
+]
